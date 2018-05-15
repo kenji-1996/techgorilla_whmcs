@@ -18,7 +18,8 @@
 <header id="header" class="header dark">
     <div id="header-wrap">
         <div class="container clearfix">
-            <div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
+
+            <div id="primary-menu-trigger"><i class="fa fa-bars"></i></div>
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#primary-nav">
                 <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar"></span>

@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8c7acddb-a358-4499-9f67-dfbe935bd9bf" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/head.tpl" afterPath="$PROJECT_DIR$/includes/head.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.tpl" afterPath="$PROJECT_DIR$/header.tpl" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,7 +54,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="head.tpl" pinned="false" current-in-tab="true">
+      <file leaf-file-name="head.tpl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/includes/head.tpl">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
@@ -66,13 +66,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.tpl" pinned="false" current-in-tab="false">
+      <file leaf-file-name="header.tpl" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/header.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+            <state relative-caret-position="170">
+              <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
               <folding>
-                <element signature="e#1884#5695#0#HTML" expanded="false" />
+                <element signature="e#1883#5694#0#HTML" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -134,9 +134,9 @@
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/js/techgorilla.js" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/header.tpl" />
         <option value="$PROJECT_DIR$/includes/navbar.tpl" />
         <option value="$PROJECT_DIR$/includes/head.tpl" />
+        <option value="$PROJECT_DIR$/header.tpl" />
       </list>
     </option>
   </component>
@@ -285,12 +285,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526352478703</updated>
-      <workItem from="1526352479784" duration="7191000" />
+      <workItem from="1526352479784" duration="7382000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7191000" />
+    <option name="totallyTimeSpent" value="7382000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -424,12 +424,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/header.tpl">
+    <entry file="file://$PROJECT_DIR$/includes/head.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        <state relative-caret-position="17">
+          <caret line="1" column="109" lean-forward="false" selection-start-line="1" selection-start-column="109" selection-end-line="1" selection-end-column="109" />
           <folding>
-            <element signature="e#1884#5695#0#HTML" expanded="false" />
+            <marker date="1526361037604" expanded="true" signature="915:1010" ph="..." />
           </folding>
         </state>
       </provider>
@@ -442,12 +442,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/includes/head.tpl">
+    <entry file="file://$PROJECT_DIR$/header.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="109" lean-forward="false" selection-start-line="1" selection-start-column="109" selection-end-line="1" selection-end-column="109" />
+        <state relative-caret-position="170">
+          <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
           <folding>
-            <marker date="1526361037604" expanded="true" signature="915:1010" ph="..." />
+            <element signature="e#1883#5694#0#HTML" expanded="false" />
           </folding>
         </state>
       </provider>
