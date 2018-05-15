@@ -2,11 +2,12 @@
     //Old creative
     "use strict"; // Start of use strict
     var navbarCollapse = function () {
-
-        if ($("#header").offset().top > 1) {
-            $("#header").addClass("sticky-header");
-        } else {
-            if (!$("#header").hasClass("no-navbar-js")) {
+        var header = $('#header');
+        if (header.length) {
+            var scroll = header.offset().top;
+            if(scroll > 2) {
+                $("#header").addClass("sticky-header");
+            }else{
                 $("#header").removeClass("sticky-header");
             }
         }
