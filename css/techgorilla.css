@@ -18818,7 +18818,7 @@ body #side-panel.dark { background-color: #383838; }
 .responsive-sticky-header.dark #header-wrap { background-color: #292929; }
 
 .dark #header.full-header #header-wrap:not(.not-dark),
-#header.full-header.dark #header-wrap:not(.not-dark) { border-bottom-color: rgba(255,255,255,0.15); }
+#header.full-header.dark #header-wrap:not(.not-dark) { border-bottom-color: rgba(255,255,255,1); }
 
 .dark #slider + #header.full-header #header-wrap:not(.not-dark),
 #slider + #header.full-header.dark #header-wrap:not(.not-dark) { border-top-color: rgba(255,255,255,0.15); }
