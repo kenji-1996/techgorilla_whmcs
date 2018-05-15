@@ -6,7 +6,7 @@
         if (header.length) {
             var scroll = header.offset().top;
             console.log(header);
-            if(scroll > 2) {
+            if(scroll < 2) {
                 $("#header").addClass("sticky-header");
             }else{
                 $("#header").removeClass("sticky-header");
