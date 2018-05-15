@@ -21,6 +21,7 @@
         whmcsBaseUrl = "{\WHMCS\Utility\Environment\WebHelper::getBaseUrl()}";
 </script>
 <script src="{$WEB_ROOT}/templates/{$template}/js/scripts.min.js?v={$versionHash}"></script>
+<script src="{$WEB_ROOT}/templates/{$template}/js/main.js?v={$versionHash}"></script>
 <script src="{$WEB_ROOT}/templates/{$template}/js/techgorilla.js?v={$versionHash}"></script>
 
 {if $templatefile == "viewticket" && !$loggedin}
