@@ -167,7 +167,14 @@
 -->
 
 {if $templatefile == 'homepage'}
-    <section id="home-banner">
+    <section id="slider" class="slider dark" style="background: url(&quot;/media/1/theme/slider_bg.png&quot;) center center / cover; height: 450px;" data-height-xxs="550" data-height-xs="450" data-height-sm="400" data-height-md="430" data-height-lg="450">
+        <div class="row clearfix">
+            <div class="heading-block title-center topmargin">
+                <h1 data-style-xxs="font-size: 21px; font-weight: 300;" data-style-xs="font-size: 23px; font-weight: 300;" data-style-sm="font-size: 30px; font-weight: 300;" data-style-md="font-size: 36px; font-weight: 300;" data-style-lg="font-size: 39px; font-weight: 300;" style="font-size: 39px; font-weight: 300;">It's time for <strong>Truly Cloud Servers</strong>.<br><strong>SSD Cloud Hosting</strong> made simple for you.<br><strong>IaaS Platform</strong> that saves your costs.<br><strong>KVM</strong> Virtualization and <strong>SSD</strong> Storage.</h1>
+            </div>
+        </div>
+    </section>
+    <!--<section id="home-banner">
         <div class="container text-center">
             {if $registerdomainenabled || $transferdomainenabled}
                 <h2>{$LANG.homebegin}</h2>
@@ -194,7 +201,7 @@
                 <h2>{$LANG.doToday}</h2>
             {/if}
         </div>
-    </section>
+    </section>-->
     <div class="home-shortcuts">
         <div class="container">
             <div class="row">
