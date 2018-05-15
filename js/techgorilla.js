@@ -10,6 +10,7 @@ $.fn.doOnce = function( func ) {
 }
 
 $.extend($.infinitescroll.prototype,{
+    alert('test');
     _setup_portfolioinfiniteitemsloader: function infscr_setup_portfolioinfiniteitemsloader() {
         var opts = this.options,
             instance = this;

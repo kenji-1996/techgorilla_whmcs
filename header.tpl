@@ -11,7 +11,7 @@
     {$headoutput}
 
 </head>
-<body data-phone-cc-input="{$phoneNumberInputStyle}" class="stretched sticky-responsive-menu no-transition">
+<body data-phone-cc-input="{$phoneNumberInputStyle}" class="">
 
 {$headeroutput}
 
