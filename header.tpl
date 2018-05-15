@@ -38,7 +38,7 @@
                     {include file="$template/includes/navbar.tpl" navbar=$primaryNavbar}
                     {include file="$template/includes/navbar.tpl" navbar=$secondaryNavbar}
                 </ul>
-                <div id="social_but">
+                <!--<div id="social_but">
                     <ul class="smbt-social-icons">
                         <li> <a href="https://www.facebook.com/SimplyBrazilian/" title="Facebook">
                                 <img src="https://simplybrazilian.techgorilla.io/wp-content/plugins/social-media-buttons-toolbar/inc/img/social-media-icons/facebook.png" alt="Facebook" data-pagespeed-url-hash="1991940584">
@@ -50,7 +50,7 @@
                             </a>
                         </li>
                     </ul>
-                </div>
+                </div>-->
             </nav>
         </div>
     </div>
