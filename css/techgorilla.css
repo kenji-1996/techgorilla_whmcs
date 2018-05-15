@@ -28213,16 +28213,14 @@ ul.tab-nav.tab-nav2 li.ui-state-active a,
         padding-left: 5px !important;
         font-size: 13px !important;
         text-transform: none;
-        font-weight: 400;
+        font-weight: 300;
     }
 
     #primary-menu ul ul a i { line-height: 43px; }
 
     #primary-menu ul ul li:hover > a {
-        background-color: transparent !important;
-        font-weight: 600;
-        padding-left: 5px;
-        color: #1ABC9C !important;
+        /*background-color: transparent;
+        font-weight: 600;*/
     }
 
     #primary-menu ul li .mega-menu-content,
