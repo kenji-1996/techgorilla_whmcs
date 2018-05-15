@@ -19,10 +19,16 @@
     <div id="header-wrap">
         <div class="container clearfix">
             <div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#primary-nav">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
             <!-- BEGIN Logo -->
             <div id="logo">
                 {if $assetLogoPath}
-                    <a href="{$WEB_ROOT}/index.php" class="standard-logo"><img src="{$assetLogoPath}" alt="{$companyname}"></a>
+                    <a href="{$WEB_ROOT}/index.php" class="retina-logo"><img src="{$assetLogoPath}" alt="{$companyname}"></a>
                 {else}
                     <a href="{$WEB_ROOT}/index.php" class="logo logo-text">{$companyname}</a>
                 {/if}
