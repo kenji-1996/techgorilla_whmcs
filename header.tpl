@@ -16,15 +16,10 @@
 {$headeroutput}
 
 <header id="header" class="header dark">
-
     <div id="header-wrap">
-
         <div class="container clearfix">
-
             <div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
-
             <!-- BEGIN Logo -->
-
             <div id="logo">
                 {if $assetLogoPath}
                     <a href="{$WEB_ROOT}/index.php" class="standard-logo"><img src="{$assetLogoPath}" alt="{$companyname}"></a>
@@ -34,45 +29,21 @@
             </div>
             <!-- END Logo -->
 
-            <!-- BEGIN Primary Navigation -->
             <nav id="primary-menu" class="style-4">
-                <div class="container">
-                    <!-- Brand and toggle get grouped for better mobile display -->
-                    <div class="navbar-header">
-                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#primary-nav">
-                            <span class="sr-only">Toggle navigation</span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
-                    </div>
+                <ul class="">
 
-                    <!-- Collect the nav links, forms, and other content for toggling -->
-                    <div class="collapse navbar-collapse" id="primary-nav">
+                    {include file="$template/includes/navbar.tpl" navbar=$primaryNavbar}
 
-                        <ul class="nav navbar-nav">
+                </ul>
 
-                            {include file="$template/includes/navbar.tpl" navbar=$primaryNavbar}
+                <ul class="nav navbar-nav navbar-right">
 
-                        </ul>
+                    {include file="$template/includes/navbar.tpl" navbar=$secondaryNavbar}
 
-                        <ul class="nav navbar-nav navbar-right">
-
-                            {include file="$template/includes/navbar.tpl" navbar=$secondaryNavbar}
-
-                        </ul>
-
-                    </div><!-- /.navbar-collapse -->
-                </div>
-
-                <ul><li><a href='#'>en</a><ul><li> <a href='md.html'>md</a> </li><li> <a href='ro.html'>ro</a> </li><li> <a href='ru.html'>ru</a> </li></ul></li></ul>
+                </ul>
             </nav>
-            <!-- END Primary Navigation -->
-
         </div>
-
     </div>
-
 </header>
 <!--<section id="header">
     <div class="container">
