@@ -28204,13 +28204,13 @@ ul.tab-nav.tab-nav2 li.ui-state-active a,
     #primary-menu ul ul li {
         float: none;
         margin: 0;
+        padding-left: 5px;
         border-top: 1px solid #EEE;
     }
 
     #primary-menu ul ul a {
         height: 44px !important;
         line-height: 44px !important;
-        padding-left: 5px !important;
         font-size: 13px !important;
         text-transform: none;
         font-weight: 300;
