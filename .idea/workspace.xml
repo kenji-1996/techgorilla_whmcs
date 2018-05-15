@@ -47,8 +47,8 @@
       <file leaf-file-name="techgorilla.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/techgorilla.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="27345" column="52" lean-forward="true" selection-start-line="27345" selection-start-column="52" selection-end-line="27345" selection-end-column="52" />
+            <state relative-caret-position="201">
+              <caret line="28178" column="37" lean-forward="false" selection-start-line="28178" selection-start-column="37" selection-end-line="28178" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -105,6 +105,8 @@
       <find>#primary-menu ul li a</find>
       <find>.dark #primary-menu:not(.not-dark) ul ul</find>
       <find>#primary-menu ul ul</find>
+      <find>background-color: transparent !important;</find>
+      <find>background-color: transparent !important;</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -276,12 +278,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526352478703</updated>
-      <workItem from="1526352479784" duration="9990000" />
+      <workItem from="1526352479784" duration="10163000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9990000" />
+    <option name="totallyTimeSpent" value="10163000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -437,8 +439,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/techgorilla.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="27345" column="52" lean-forward="true" selection-start-line="27345" selection-start-column="52" selection-end-line="27345" selection-end-column="52" />
+        <state relative-caret-position="201">
+          <caret line="28178" column="37" lean-forward="false" selection-start-line="28178" selection-start-column="37" selection-end-line="28178" selection-end-column="37" />
           <folding />
         </state>
       </provider>

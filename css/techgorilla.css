@@ -28176,7 +28176,7 @@ ul.tab-nav.tab-nav2 li.ui-state-active a,
     #primary-menu ul li .mega-menu-content {
         position: relative;
         width: auto;
-        background-color: transparent !important;
+        background-color: transparent;
         box-shadow: none;
         border: 0;
         border-top: 1px solid #EEE;
