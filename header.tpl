@@ -15,7 +15,7 @@
 
 {$headeroutput}
 
-<header id="header" class="header dark sticky-header">
+<header id="header" class="header dark">
     <div id="header-wrap">
         <div class="container clearfix">
 

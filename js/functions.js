@@ -3,11 +3,11 @@
     "use strict"; // Start of use strict
     var navbarCollapse = function () {
 
-        if ($("#mainNav").offset().top > 1) {
-            $("#mainNav").addClass("navbar-shrink");
+        if ($("#header").offset().top > 1) {
+            $("#header").addClass("sticky-header");
         } else {
-            if (!$("#mainNav").hasClass("no-navbar-js")) {
-                $("#mainNav").removeClass("navbar-shrink");
+            if (!$("#header").hasClass("no-navbar-js")) {
+                $("#header").removeClass("sticky-header");
             }
         }
     };
