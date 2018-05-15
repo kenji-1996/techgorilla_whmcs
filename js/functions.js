@@ -7,6 +7,8 @@
         if (scroll >= 2) {
             //clearHeader, not clearheader - caps H
             $("#header").addClass("sticky-header");
+        }else{
+            $("#header").removeClass("sticky-header");
         }
     });
 })(jQuery); // End of use strict
