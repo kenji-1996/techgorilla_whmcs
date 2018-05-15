@@ -7430,7 +7430,7 @@ body:not(.device-sm):not(.device-xs):not(.device-xxs) .container-fullwidth #top-
 
 body.top-search-open #top-search form input { pointer-events: auto; }
 
-body:not(.device-sm):not(.device-xs):not(.device-xxs) #header.transparent-header:not(.sticky-header):not(.full-header):not(.floating-header) #top-search form input { border-bottom: 2px solid rgba(0,0,0,0.1); }
+/*body:not(.device-sm):not(.device-xs):not(.device-xxs) #header.transparent-header:not(.sticky-header):not(.full-header):not(.floating-header) #top-search form input { border-bottom: 2px solid rgba(0,0,0,0.1); }*/
 
 #top-search form input::-moz-placeholder {
     color: #555;
