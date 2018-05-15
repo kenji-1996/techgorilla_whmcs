@@ -34,7 +34,7 @@
             </div>
             <!-- END Logo -->
             <nav id="primary-menu" class="style-4">
-                <ul class="">
+                <ul class="sf-js-enabled">
                     {include file="$template/includes/navbar.tpl" navbar=$primaryNavbar}
                     {include file="$template/includes/navbar.tpl" navbar=$secondaryNavbar}
                 </ul>
