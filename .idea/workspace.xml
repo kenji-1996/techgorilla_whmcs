@@ -69,8 +69,8 @@
       <file leaf-file-name="header.tpl" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/header.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+            <state relative-caret-position="408">
+              <caret line="39" column="90" lean-forward="false" selection-start-line="39" selection-start-column="90" selection-end-line="39" selection-end-column="90" />
               <folding>
                 <element signature="e#1883#5694#0#HTML" expanded="false" />
               </folding>
@@ -285,12 +285,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526352478703</updated>
-      <workItem from="1526352479784" duration="7382000" />
+      <workItem from="1526352479784" duration="7489000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7382000" />
+    <option name="totallyTimeSpent" value="7489000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -444,8 +444,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/header.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        <state relative-caret-position="408">
+          <caret line="39" column="90" lean-forward="false" selection-start-line="39" selection-start-column="90" selection-end-line="39" selection-end-column="90" />
           <folding>
             <element signature="e#1883#5694#0#HTML" expanded="false" />
           </folding>
