@@ -28106,7 +28106,7 @@ ul.tab-nav.tab-nav2 li.ui-state-active a,
 
     #primary-menu ul li {
         float: none;
-        margin: 0 !important;
+        margin: 0 ;
         text-align: left !important;
         border-top: 1px solid #EEE;
     }
