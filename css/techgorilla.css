@@ -18910,10 +18910,10 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 }
 
 .dark #primary-menu:not(.not-dark) ul ul li,
-#primary-menu.dark ul ul li { border-top-color: #3F3F3F; }
+#primary-menu.dark ul ul li { border-top-color: #3F3F3F;margin-right: 10px; }
 
 .dark #primary-menu:not(.not-dark) ul ul li:first-child,
-#primary-menu.dark ul ul li:first-child { border-top: 0;margin-right: 10px; }
+#primary-menu.dark ul ul li:first-child { border-top: 0; }
 
 .dark #primary-menu:not(.not-dark) ul ul a,
 #primary-menu.dark ul ul a { color: #999 !important; }
