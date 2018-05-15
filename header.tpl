@@ -39,11 +39,11 @@
 
                 </ul>
 
-                <ul class="nav navbar-nav navbar-right">
+                <!--<ul class="nav navbar-nav navbar-right">
 
                     {include file="$template/includes/navbar.tpl" navbar=$secondaryNavbar}
 
-                </ul>
+                </ul>-->
             </nav>
         </div>
     </div>
