@@ -27,20 +27,6 @@
                 <span class="icon-bar"></span>
             </button>
 
-            <div id="social_but">
-                <ul class="smbt-social-icons">
-                    <li> <a href="https://www.facebook.com/SimplyBrazilian/" title="Facebook">
-                            <img src="https://simplybrazilian.techgorilla.io/wp-content/plugins/social-media-buttons-toolbar/inc/img/social-media-icons/facebook.png" alt="Facebook" data-pagespeed-url-hash="1991940584">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://twitter.com/simplybrazilian" title="Twitter">
-                            <img src="https://simplybrazilian.techgorilla.io/wp-content/plugins/social-media-buttons-toolbar/inc/img/social-media-icons/twitter.png" alt="Twitter" data-pagespeed-url-hash="3100046819">
-                        </a>
-                    </li>
-                </ul>
-            </div>
-
             <!-- BEGIN Logo -->
             <div id="logo">
                 <a href="{$WEB_ROOT}/index.php" class="standard-logo" data-dark-logo="{$assetLogoPath}"><img alt="{$companyname}" src="{$assetLogoPath}" /></a>
@@ -52,6 +38,19 @@
                     {include file="$template/includes/navbar.tpl" navbar=$primaryNavbar}
                     {include file="$template/includes/navbar.tpl" navbar=$secondaryNavbar}
                 </ul>
+                <div id="social_but">
+                    <ul class="smbt-social-icons">
+                        <li> <a href="https://www.facebook.com/SimplyBrazilian/" title="Facebook">
+                                <img src="https://simplybrazilian.techgorilla.io/wp-content/plugins/social-media-buttons-toolbar/inc/img/social-media-icons/facebook.png" alt="Facebook" data-pagespeed-url-hash="1991940584">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/simplybrazilian" title="Twitter">
+                                <img src="https://simplybrazilian.techgorilla.io/wp-content/plugins/social-media-buttons-toolbar/inc/img/social-media-icons/twitter.png" alt="Twitter" data-pagespeed-url-hash="3100046819">
+                            </a>
+                        </li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </div>
