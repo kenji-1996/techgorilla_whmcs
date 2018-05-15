@@ -27,11 +27,8 @@
             </button>
             <!-- BEGIN Logo -->
             <div id="logo">
-                {if $assetLogoPath}
-                    <a href="{$WEB_ROOT}/index.php" class="retina-logo"><img src="{$assetLogoPath}" alt="{$companyname}"></a>
-                {else}
-                    <a href="{$WEB_ROOT}/index.php" class="logo logo-text">{$companyname}</a>
-                {/if}
+                <a href="{$WEB_ROOT}/index.php" class="standard-logo" data-dark-logo="{$assetLogoPath}"><img alt="{$companyname}" src="{$assetLogoPath}" /></a>
+                <a href="{$WEB_ROOT}/index.php" class="retina-logo" data-dark-logo="{$assetLogoPath}"><img alt="{$companyname}" src="{$assetLogoPath}" /></a>
             </div>
             <!-- END Logo -->
 
