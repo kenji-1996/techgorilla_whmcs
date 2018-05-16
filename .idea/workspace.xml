@@ -27,8 +27,8 @@
       <file leaf-file-name="techgorilla.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/techgorilla.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6663" column="22" lean-forward="true" selection-start-line="6663" selection-start-column="22" selection-end-line="6663" selection-end-column="22" />
+            <state relative-caret-position="133">
+              <caret line="6781" column="23" lean-forward="true" selection-start-line="6781" selection-start-column="23" selection-end-line="6781" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -257,7 +257,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17697000" />
+    <option name="totallyTimeSpent" value="17760000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -710,8 +710,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/techgorilla.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6663" column="22" lean-forward="true" selection-start-line="6663" selection-start-column="22" selection-end-line="6663" selection-end-column="22" />
+        <state relative-caret-position="133">
+          <caret line="6781" column="23" lean-forward="true" selection-start-line="6781" selection-start-column="23" selection-end-line="6781" selection-end-column="23" />
           <folding />
         </state>
       </provider>
