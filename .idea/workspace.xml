@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c7acddb-a358-4499-9f67-dfbe935bd9bf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.tpl" afterPath="$PROJECT_DIR$/header.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/techgorilla.css" afterPath="$PROJECT_DIR$/css/techgorilla.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,28 +24,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="techgorilla.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="techgorilla.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/techgorilla.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="27994" column="62" lean-forward="false" selection-start-line="27994" selection-start-column="62" selection-end-line="27994" selection-end-column="62" />
+            <state relative-caret-position="150">
+              <caret line="6663" column="22" lean-forward="true" selection-start-line="6663" selection-start-column="22" selection-end-line="6663" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.tpl" pinned="false" current-in-tab="true">
+      <file leaf-file-name="header.tpl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/header.tpl">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="33" column="12" lean-forward="false" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding>
-                <marker date="1526469721298" expanded="false" signature="7550:7591" ph="..." />
-                <marker date="1526469721298" expanded="false" signature="8081:8115" ph="..." />
-                <marker date="1526469721298" expanded="false" signature="10363:10370" ph="»" />
-                <marker date="1526469721298" expanded="false" signature="10777:10784" ph="»" />
-                <marker date="1526469721298" expanded="false" signature="11159:11166" ph="»" />
-                <marker date="1526469721298" expanded="false" signature="11540:11547" ph="»" />
+                <marker date="1526469722119" expanded="false" signature="7538:7579" ph="..." />
+                <marker date="1526469722119" expanded="false" signature="8069:8103" ph="..." />
+                <marker date="1526469722119" expanded="false" signature="10351:10358" ph="»" />
+                <marker date="1526469722119" expanded="false" signature="10765:10772" ph="»" />
+                <marker date="1526469722119" expanded="false" signature="11147:11154" ph="»" />
+                <marker date="1526469722119" expanded="false" signature="11528:11535" ph="»" />
               </folding>
             </state>
           </provider>
@@ -77,7 +78,6 @@
       <find>.dark #primary-menu:not(.not-dark) ul ul</find>
       <find>#primary-menu ul ul</find>
       <find>background-color: transparent !important;</find>
-      <find>background-color: transparent !important;</find>
       <find>hover</find>
       <find>a:hover</find>
       <find>#primary-menu ul li</find>
@@ -87,9 +87,9 @@
       <find>sticky-</find>
       <find>border-bottom: 1px solid rgba(255,255,255,0.05);</find>
       <find>nav</find>
-      <find>border-bottom: 1px solid rgba(255,255,255,0.05);</find>
       <find>sticky-header</find>
       <find>#header.sticky-header #header-wrap</find>
+      <find>#logo</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -111,9 +111,9 @@
         <option value="$PROJECT_DIR$/includes/head.tpl" />
         <option value="$PROJECT_DIR$/js/techgorilla.js" />
         <option value="$PROJECT_DIR$/js/functions.js" />
-        <option value="$PROJECT_DIR$/css/techgorilla.css" />
         <option value="$PROJECT_DIR$/css/custom.scss" />
         <option value="$PROJECT_DIR$/header.tpl" />
+        <option value="$PROJECT_DIR$/css/techgorilla.css" />
       </list>
     </option>
   </component>
@@ -257,7 +257,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16854000" />
+    <option name="totallyTimeSpent" value="17697000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -322,12 +322,12 @@
         <state relative-caret-position="3026">
           <caret line="178" column="319" lean-forward="true" selection-start-line="178" selection-start-column="319" selection-end-line="178" selection-end-column="319" />
           <folding>
-            <marker date="1526469721298" expanded="false" signature="7550:7591" ph="..." />
-            <marker date="1526469721298" expanded="false" signature="8081:8115" ph="..." />
-            <marker date="1526469721298" expanded="false" signature="10363:10370" ph="»" />
-            <marker date="1526469721298" expanded="false" signature="10777:10784" ph="»" />
-            <marker date="1526469721298" expanded="false" signature="11159:11166" ph="»" />
-            <marker date="1526469721298" expanded="false" signature="11540:11547" ph="»" />
+            <marker date="1526469722119" expanded="false" signature="7538:7579" ph="..." />
+            <marker date="1526469722119" expanded="false" signature="8069:8103" ph="..." />
+            <marker date="1526469722119" expanded="false" signature="10351:10358" ph="»" />
+            <marker date="1526469722119" expanded="false" signature="10765:10772" ph="»" />
+            <marker date="1526469722119" expanded="false" signature="11147:11154" ph="»" />
+            <marker date="1526469722119" expanded="false" signature="11528:11535" ph="»" />
           </folding>
         </state>
       </provider>
@@ -439,12 +439,12 @@
         <state relative-caret-position="3247">
           <caret line="206" column="40" lean-forward="true" selection-start-line="206" selection-start-column="40" selection-end-line="206" selection-end-column="40" />
           <folding>
-            <marker date="1526469721298" expanded="false" signature="7550:7591" ph="..." />
-            <marker date="1526469721298" expanded="false" signature="8081:8115" ph="..." />
-            <marker date="1526469721298" expanded="false" signature="10363:10370" ph="»" />
-            <marker date="1526469721298" expanded="false" signature="10777:10784" ph="»" />
-            <marker date="1526469721298" expanded="false" signature="11159:11166" ph="»" />
-            <marker date="1526469721298" expanded="false" signature="11540:11547" ph="»" />
+            <marker date="1526469722119" expanded="false" signature="7538:7579" ph="..." />
+            <marker date="1526469722119" expanded="false" signature="8069:8103" ph="..." />
+            <marker date="1526469722119" expanded="false" signature="10351:10358" ph="»" />
+            <marker date="1526469722119" expanded="false" signature="10765:10772" ph="»" />
+            <marker date="1526469722119" expanded="false" signature="11147:11154" ph="»" />
+            <marker date="1526469722119" expanded="false" signature="11528:11535" ph="»" />
           </folding>
         </state>
       </provider>
@@ -556,12 +556,12 @@
         <state relative-caret-position="425">
           <caret line="40" column="41" lean-forward="true" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
           <folding>
-            <marker date="1526469721298" expanded="false" signature="7550:7591" ph="..." />
-            <marker date="1526469721298" expanded="false" signature="8081:8115" ph="..." />
-            <marker date="1526469721298" expanded="false" signature="10363:10370" ph="»" />
-            <marker date="1526469721298" expanded="false" signature="10777:10784" ph="»" />
-            <marker date="1526469721298" expanded="false" signature="11159:11166" ph="»" />
-            <marker date="1526469721298" expanded="false" signature="11540:11547" ph="»" />
+            <marker date="1526469722119" expanded="false" signature="7538:7579" ph="..." />
+            <marker date="1526469722119" expanded="false" signature="8069:8103" ph="..." />
+            <marker date="1526469722119" expanded="false" signature="10351:10358" ph="»" />
+            <marker date="1526469722119" expanded="false" signature="10765:10772" ph="»" />
+            <marker date="1526469722119" expanded="false" signature="11147:11154" ph="»" />
+            <marker date="1526469722119" expanded="false" signature="11528:11535" ph="»" />
           </folding>
         </state>
       </provider>
@@ -595,12 +595,12 @@
         <state relative-caret-position="3026">
           <caret line="178" column="319" lean-forward="true" selection-start-line="178" selection-start-column="319" selection-end-line="178" selection-end-column="319" />
           <folding>
-            <marker date="1526469721298" expanded="false" signature="7550:7591" ph="..." />
-            <marker date="1526469721298" expanded="false" signature="8081:8115" ph="..." />
-            <marker date="1526469721298" expanded="false" signature="10363:10370" ph="»" />
-            <marker date="1526469721298" expanded="false" signature="10777:10784" ph="»" />
-            <marker date="1526469721298" expanded="false" signature="11159:11166" ph="»" />
-            <marker date="1526469721298" expanded="false" signature="11540:11547" ph="»" />
+            <marker date="1526469722119" expanded="false" signature="7538:7579" ph="..." />
+            <marker date="1526469722119" expanded="false" signature="8069:8103" ph="..." />
+            <marker date="1526469722119" expanded="false" signature="10351:10358" ph="»" />
+            <marker date="1526469722119" expanded="false" signature="10765:10772" ph="»" />
+            <marker date="1526469722119" expanded="false" signature="11147:11154" ph="»" />
+            <marker date="1526469722119" expanded="false" signature="11528:11535" ph="»" />
           </folding>
         </state>
       </provider>
@@ -641,14 +641,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/includes/navbar.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/includes/head.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -685,14 +677,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/techgorilla.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="27994" column="62" lean-forward="false" selection-start-line="27994" selection-start-column="62" selection-end-line="27994" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -704,15 +688,31 @@
     <entry file="file://$PROJECT_DIR$/header.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="33" column="12" lean-forward="false" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding>
-            <marker date="1526469721298" expanded="false" signature="7550:7591" ph="..." />
-            <marker date="1526469721298" expanded="false" signature="8081:8115" ph="..." />
-            <marker date="1526469721298" expanded="false" signature="10363:10370" ph="»" />
-            <marker date="1526469721298" expanded="false" signature="10777:10784" ph="»" />
-            <marker date="1526469721298" expanded="false" signature="11159:11166" ph="»" />
-            <marker date="1526469721298" expanded="false" signature="11540:11547" ph="»" />
+            <marker date="1526469722119" expanded="false" signature="7538:7579" ph="..." />
+            <marker date="1526469722119" expanded="false" signature="8069:8103" ph="..." />
+            <marker date="1526469722119" expanded="false" signature="10351:10358" ph="»" />
+            <marker date="1526469722119" expanded="false" signature="10765:10772" ph="»" />
+            <marker date="1526469722119" expanded="false" signature="11147:11154" ph="»" />
+            <marker date="1526469722119" expanded="false" signature="11528:11535" ph="»" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/navbar.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/techgorilla.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6663" column="22" lean-forward="true" selection-start-line="6663" selection-start-column="22" selection-end-line="6663" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
