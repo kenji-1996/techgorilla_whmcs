@@ -17,7 +17,7 @@
 
 <header id="header" class="header dark">
     <div id="header-wrap">
-        <div class="container clearfix">
+        <div class="clearfix">
 
             <div id="primary-menu-trigger"><i class="fa fa-bars"></i></div>
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#primary-nav">
