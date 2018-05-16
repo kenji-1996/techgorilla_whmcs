@@ -27,12 +27,11 @@
                 <span class="icon-bar"></span>
             </button>
 
-            <!-- BEGIN Logo -->
             <div id="logo">
                 <a href="{$WEB_ROOT}/index.php" class="standard-logo" data-dark-logo="{$assetLogoPath}"><img alt="{$companyname}" src="{$assetLogoPath}" /></a>
                 <a href="{$WEB_ROOT}/index.php" class="retina-logo" data-dark-logo="{$assetLogoPath}"><img alt="{$companyname}" src="{$assetLogoPath}" /></a>
             </div>
-            <!-- END Logo -->
+
             <nav id="primary-menu" class="style-4">
                 <ul class="">
                     {include file="$template/includes/navbar.tpl" navbar=$primaryNavbar}
