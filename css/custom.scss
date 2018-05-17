@@ -26,11 +26,11 @@ body {
 section#main-body {
   padding: 0;
 }
-div.announcement-single {
+div.announcement-single .flex {
     display: flex;
     justify-content: space-between;
 }
-div.announcement-single div {
+div.announcement-single .flex div {
   padding: 1em
 }
 div.announcement-single .label {
