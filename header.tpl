@@ -264,10 +264,9 @@
     {include file="$template/includes/pageheader.tpl" title=$displayTitle desc=$tagline showbreadcrumb=true}
 {/if}
 
-{if !$primarySidebar->hasChildren() && !$showingLoginPage && !$inShoppingCart && $templatefile != 'homepage' && !$skipMainBodyContainer}
+{if !$primarySidebar->hasChildren() && !$inShoppingCart && $templatefile != 'homepage' && !$skipMainBodyContainer}
     {include file="$template/includes/pageheader.tpl" title=$displayTitle desc=$tagline showbreadcrumb=true}
 {/if}
-{include file="$template/includes/pageheader.tpl" title=$LANG.login desc="{$LANG.restrictedpage}"}
 <section id="main-body testss">
     <div class="container{if $skipMainBodyContainer}-fluid without-padding{/if}">
         <div class="row">
