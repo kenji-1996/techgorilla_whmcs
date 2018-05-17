@@ -209,13 +209,13 @@
     </section>-->
     <div class="home-shortcuts">
         <div class="container">
-            <div class="row">
+            <div class="row text-center">
                 <!--<div class="col-md-4 hidden-sm hidden-xs text-center">
                     <p class="lead">
                         {$LANG.howcanwehelp}
                     </p>
                 </div>-->
-                <div class="col-sm-12 col-sm-12 text-center">
+                <div class="col-sm-12 col-sm-12">
                     <ul>
                         {if $registerdomainenabled || $transferdomainenabled}
                             <li>
