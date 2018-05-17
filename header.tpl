@@ -182,27 +182,25 @@
             <div data-vc-full-width="true" data-vc-full-width-init="true" class="row wpb_row row-fluid custom_1504880319686 row-has-fill">
                 <div class="ovrl"></div>
                 <div class="wpb_column container col-sm-6 col-lg-3 col-md-3 col-xs-12" style="padding-bottom: 20px;">
-                    <div class="column-inner">
-                        <div class="wpb_wrapper">
-                            <!--fetures-->
-                            <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn;">
-                                <i class="fa fa-hdd-o"></i>
-                                <h5>Premium Packages</h5>
-
-                                <p>{$LANG.orderhosting}</p>
-
-                                <span>Pick a hosting plan from us that suits your needs.</span>
-                                <a href="cart.php">order now</a>
+                    <a href="cart.php">
+                        <div class="column-inner">
+                            <div class="wpb_wrapper">
+                                <!--fetures-->
+                                <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn; padding-bottom:25px;">
+                                    <i class="fa fa-hdd-o"></i>
+                                    <h5>Premium Packages</h5>
+                                    <p>{$LANG.orderhosting}</p>
+                                </div>
                             </div>
                         </div>
-                    </div>
+                    </a>
                 </div>
                 <div class="wpb_column container col-sm-6 col-lg-3 col-md-3 col-xs-12" style="padding-bottom: 20px;">
                     <a href="cart.php">
                         <div class="column-inner ">
                             <div class="wpb_wrapper">
                                 <!--fetures-->
-                                <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn;">
+                                <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn; padding-bottom:25px;">
                                     <i class="fa fa-ticket"></i>
                                     <h5>Support System</h5>
                                     <p>{$LANG.getsupport}</p>
@@ -212,36 +210,32 @@
                     </a>
                 </div>
                 <div class="wpb_column container col-sm-6 col-lg-3 col-md-3 col-xs-12" style="padding-bottom: 20px;">
-                    <div class="column-inner ">
-                        <div class="wpb_wrapper">
-                            <!--fetures-->
-                            <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn;">
-                                <i class="fa fa-server"></i>
-                                <h5>Network Status</h5>
-
-                                <p>Check Servers</p>
-
-                                <span>See the current status of our servers.</span>
-                                <a href="submitticket.php">Check now</a>
+                    <a href="cart.php">
+                        <div class="column-inner ">
+                            <div class="wpb_wrapper">
+                                <!--fetures-->
+                                <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn; padding-bottom:25px;">
+                                    <i class="fa fa-server"></i>
+                                    <h5>Network Status</h5>
+                                    <p>Check Servers</p>
+                                </div>
                             </div>
                         </div>
-                    </div>
+                    </a>
                 </div>
                 <div class="wpb_column container col-sm-6 col-lg-3 col-md-3 col-xs-12 " style="padding-bottom: 20px;">
-                    <div class="column-inner ">
-                        <div class="wpb_wrapper">
-                            <!--fetures-->
-                            <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn;">
-                                <i class="fa fa-shopping-cart"></i>
-                                <h5>Client Area</h5>
-
-                                <p>{$LANG.makepayment}</p>
-
-                                <span>Check addons, pay a bill or upgrade your plan.</span>
-                                <a href="cart.php">client area</a>
+                    <a href="cart.php">
+                        <div class="column-inner ">
+                            <div class="wpb_wrapper">
+                                <!--fetures-->
+                                <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn; padding-bottom:25px;">
+                                    <i class="fa fa-shopping-cart"></i>
+                                    <h5>Client Area</h5>
+                                    <p>{$LANG.makepayment}</p>
+                                </div>
                             </div>
                         </div>
-                    </div>
+                    </a>
                 </div>
                 <div class="wpb_column container col-sm-12 ">
                     <div class="column-inner ">
