@@ -51,7 +51,7 @@ div.announcement-single blockquote {
 .label-warning {
   background-color: #BD0102;
 }
-.label-warning:hover {
+.label-warning[href]:hover, .label-warning[href]:focus {
   background-color: #BD1909;
 }
 div.announcement-single h3 {
