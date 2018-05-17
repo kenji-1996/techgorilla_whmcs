@@ -235,12 +235,12 @@
                             <!--fetures-->
                             <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn;">
                                 <i class="fa fa-hdd-o"></i>
-                                <h5>Premium Packages</h5>
+                                <h5>Client Area</h5>
 
-                                <p>{$LANG.orderhosting}</p>
+                                <p>{$LANG.makepayment}</p>
 
-                                <span>Pick a hosting plan from us that suits your needs.</span>
-                                <a href="cart.php">order now</a>
+                                <span>Check addons, pay a bill or upgrade your plan.</span>
+                                <a href="cart.php">client area</a>
                             </div>
                         </div>
                     </div>
