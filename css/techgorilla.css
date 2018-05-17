@@ -8886,8 +8886,8 @@ body.side-panel-open:not(.device-xxs):not(.device-xs):not(.device-sm) .body-over
     width: auto !important;
     /*top: 50% !important;
     left: auto !important;
-    right: 15px !important;
-    margin: -10px 0 0 0 !important;*/
+    right: 15px !important;*/
+    margin: -10px 0 0 0 !important;
     background-color: transparent !important;
     padding: 0 !important;
     font-size: 12px;
