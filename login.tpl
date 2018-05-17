@@ -1,4 +1,4 @@
-{include file="$template/includes/pageheader.tpl" title=$LANG.login desc="{$LANG.restrictedpage}"}
+gsegseg
 <div class="logincontainer{if $linkableProviders} with-social{/if}">
     {if $incorrect}
         {include file="$template/includes/alert.tpl" type="error" msg=$LANG.loginincorrect textcenter=true}
@@ -7,12 +7,9 @@
     {elseif $ssoredirect}
         {include file="$template/includes/alert.tpl" type="info" msg=$LANG.sso.redirectafterlogin textcenter=true}
     {/if}
-
     <div class="providerLinkingFeedback"></div>
-
     <div class="row">
         <div class="col-sm-{if $linkableProviders}7{else}12{/if}">
-
             <form method="post" action="{$systemurl}dologin.php" class="login-form" role="form">
                 <div class="form-group">
                     <label for="inputEmail">{$LANG.clientareaemail}</label>
