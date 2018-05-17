@@ -4,7 +4,6 @@
     <list default="true" id="8c7acddb-a358-4499-9f67-dfbe935bd9bf" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.tpl" afterPath="$PROJECT_DIR$/header.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/store/order.tpl" afterPath="$PROJECT_DIR$/store/order.tpl" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.tpl" pinned="false" current-in-tab="false">
+      <file leaf-file-name="header.tpl" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/header.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="272" column="25" lean-forward="false" selection-start-line="272" selection-start-column="25" selection-end-line="272" selection-end-column="25" />
+            <state relative-caret-position="195">
+              <caret line="270" column="35" lean-forward="false" selection-start-line="270" selection-start-column="35" selection-end-line="270" selection-end-column="35" />
               <folding>
                 <element signature="e#1655#2572#0#HTML" expanded="false" />
                 <element signature="e#2628#6439#0#HTML" expanded="false" />
@@ -62,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="order.tpl" pinned="false" current-in-tab="true">
+      <file leaf-file-name="order.tpl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/store/order.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+            <state relative-caret-position="255">
+              <caret line="15" column="46" lean-forward="true" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -116,7 +115,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>hover</find>
       <find>a:hover</find>
       <find>#primary-menu ul li</find>
       <find>font-weight: 600;</find>
@@ -146,7 +144,11 @@
       <find>/includes/pageheader.tpl</find>
       <find>cart</find>
       <find>products</find>
+      <find>order</find>
     </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Kenji\Documents\Buisness\WHMCS\templates\techgorilla_whmcs\store</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -173,8 +175,8 @@
         <option value="$PROJECT_DIR$/logintwofa.tpl" />
         <option value="$PROJECT_DIR$/css/techgorilla.css" />
         <option value="$PROJECT_DIR$/login.tpl" />
-        <option value="$PROJECT_DIR$/header.tpl" />
         <option value="$PROJECT_DIR$/store/order.tpl" />
+        <option value="$PROJECT_DIR$/header.tpl" />
       </list>
     </option>
   </component>
@@ -258,28 +260,6 @@
               <item name="techgorilla_whmcs" type="b2602c69:ProjectViewProjectNode" />
               <item name="techgorilla_whmcs" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="techgorilla_whmcs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techgorilla_whmcs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="techgorilla_whmcs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techgorilla_whmcs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="all.css" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="techgorilla_whmcs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techgorilla_whmcs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="custom.scss" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="techgorilla_whmcs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techgorilla_whmcs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="store" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -321,12 +301,12 @@
       <updated>1526352478703</updated>
       <workItem from="1526352479784" duration="16235000" />
       <workItem from="1526373408029" duration="534000" />
-      <workItem from="1526517570517" duration="2909000" />
+      <workItem from="1526517570517" duration="3282000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24055000" />
+    <option name="totallyTimeSpent" value="24428000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -749,21 +729,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/header.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="272" column="25" lean-forward="false" selection-start-line="272" selection-start-column="25" selection-end-line="272" selection-end-column="25" />
-          <folding>
-            <element signature="e#1655#2572#0#HTML" expanded="false" />
-            <element signature="e#2628#6439#0#HTML" expanded="false" />
-            <element signature="e#6441#7460#0#HTML" expanded="false" />
-            <element signature="e#7462#11751#0#Smarty" expanded="false" />
-            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#8188#9629#0#HTML" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/store/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -792,9 +757,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/store/order.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        <state relative-caret-position="255">
+          <caret line="15" column="46" lean-forward="true" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="270" column="35" lean-forward="false" selection-start-line="270" selection-start-column="35" selection-end-line="270" selection-end-column="35" />
+          <folding>
+            <element signature="e#1655#2572#0#HTML" expanded="false" />
+            <element signature="e#2628#6439#0#HTML" expanded="false" />
+            <element signature="e#6441#7460#0#HTML" expanded="false" />
+            <element signature="e#7462#11751#0#Smarty" expanded="false" />
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#8188#9629#0#HTML" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

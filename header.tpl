@@ -268,6 +268,10 @@
     {include file="$template/includes/pageheader.tpl" title=$displayTitle desc=$tagline showbreadcrumb=true}
 {/if}
 
+{if !$primarySidebar->hasChildren() && $templatefile != 'homepage' && !$skipMainBodyContainer}
+    {include file="$template/includes/pageheader.tpl" title=$displayTitle desc=$tagline showbreadcrumb=true}
+{/if}
+
 <section id="main-body">
     <div class="container{if $skipMainBodyContainer}-fluid without-padding{/if}">
         <div class="row">
