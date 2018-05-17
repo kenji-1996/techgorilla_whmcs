@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8c7acddb-a358-4499-9f67-dfbe935bd9bf" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/techgorilla.js" afterPath="$PROJECT_DIR$/js/techgorilla.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/head.tpl" afterPath="$PROJECT_DIR$/includes/head.tpl" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -101,21 +101,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="head.tpl" pinned="false" current-in-tab="false">
+      <file leaf-file-name="head.tpl" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/includes/head.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="92" lean-forward="false" selection-start-line="26" selection-start-column="92" selection-end-line="26" selection-end-column="92" />
+            <state relative-caret-position="459">
+              <caret line="27" column="92" lean-forward="false" selection-start-line="27" selection-start-column="92" selection-end-line="27" selection-end-column="92" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="techgorilla.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="techgorilla.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/techgorilla.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="51">
+              <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
               <folding>
                 <marker date="1526599068535" expanded="true" signature="76662:76706" ph="..." />
               </folding>
@@ -215,8 +215,8 @@
         <option value="$PROJECT_DIR$/header.tpl" />
         <option value="$PROJECT_DIR$/css/custom.scss" />
         <option value="$PROJECT_DIR$/css/techgorilla.css" />
-        <option value="$PROJECT_DIR$/includes/head.tpl" />
         <option value="$PROJECT_DIR$/js/techgorilla.js" />
+        <option value="$PROJECT_DIR$/includes/head.tpl" />
       </list>
     </option>
   </component>
@@ -352,12 +352,12 @@
       <workItem from="1526352479784" duration="16235000" />
       <workItem from="1526373408029" duration="534000" />
       <workItem from="1526517570517" duration="20424000" />
-      <workItem from="1526596821595" duration="2247000" />
+      <workItem from="1526596821595" duration="2325000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43817000" />
+    <option name="totallyTimeSpent" value="43895000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -797,21 +797,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/includes/head.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="92" lean-forward="false" selection-start-line="26" selection-start-column="92" selection-end-line="26" selection-end-column="92" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/techgorilla.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="51">
+          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
           <folding>
             <marker date="1526599068535" expanded="true" signature="76662:76706" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/head.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="92" lean-forward="false" selection-start-line="27" selection-start-column="92" selection-end-line="27" selection-end-column="92" />
+          <folding />
         </state>
       </provider>
     </entry>
