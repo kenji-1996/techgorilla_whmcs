@@ -10,8 +10,7 @@
 
 {elseif $announcements}
 
-    <h2>{$LANG.news}</h2>
-
+    <!--<h2>{$LANG.news}</h2>-->
     {foreach $announcements as $announcement}
         {if $announcement@index < 2}
             <div class="announcement-single">
