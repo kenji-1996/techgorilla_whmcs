@@ -205,10 +205,7 @@
                                 <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn;">
                                     <i class="fa fa-ticket"></i>
                                     <h5>Support System</h5>
-
                                     <p>{$LANG.getsupport}</p>
-
-                                    <span>Get help fast by creating a support ticket.</span>
                                 </div>
                             </div>
                         </div>

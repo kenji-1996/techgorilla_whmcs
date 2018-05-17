@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c7acddb-a358-4499-9f67-dfbe935bd9bf" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.tpl" afterPath="$PROJECT_DIR$/header.tpl" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,8 +37,8 @@
       <file leaf-file-name="header.tpl" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/header.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="210" column="92" lean-forward="false" selection-start-line="210" selection-start-column="92" selection-end-line="210" selection-end-column="92" />
+            <state relative-caret-position="314">
+              <caret line="206" column="59" lean-forward="false" selection-start-line="206" selection-start-column="59" selection-end-line="206" selection-end-column="59" />
               <folding>
                 <element signature="e#1655#2572#0#HTML" expanded="false" />
                 <element signature="e#2628#6439#0#HTML" expanded="false" />
@@ -299,12 +300,12 @@
       <updated>1526352478703</updated>
       <workItem from="1526352479784" duration="16235000" />
       <workItem from="1526373408029" duration="534000" />
-      <workItem from="1526517570517" duration="14439000" />
+      <workItem from="1526517570517" duration="14508000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35585000" />
+    <option name="totallyTimeSpent" value="35654000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -773,8 +774,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/header.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="210" column="92" lean-forward="false" selection-start-line="210" selection-start-column="92" selection-end-line="210" selection-end-column="92" />
+        <state relative-caret-position="314">
+          <caret line="206" column="59" lean-forward="false" selection-start-line="206" selection-start-column="59" selection-end-line="206" selection-end-column="59" />
           <folding>
             <element signature="e#1655#2572#0#HTML" expanded="false" />
             <element signature="e#2628#6439#0#HTML" expanded="false" />
