@@ -1,4 +1,3 @@
-gsegseg
 <div class="logincontainer{if $linkableProviders} with-social{/if}">
     {if $incorrect}
         {include file="$template/includes/alert.tpl" type="error" msg=$LANG.loginincorrect textcenter=true}
