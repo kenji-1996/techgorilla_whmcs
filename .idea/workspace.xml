@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8c7acddb-a358-4499-9f67-dfbe935bd9bf" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/head.tpl" afterPath="$PROJECT_DIR$/includes/head.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/techgorilla.js" afterPath="$PROJECT_DIR$/js/techgorilla.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -101,12 +101,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="head.tpl" pinned="false" current-in-tab="true">
+      <file leaf-file-name="head.tpl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/includes/head.tpl">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
               <caret line="26" column="92" lean-forward="false" selection-start-line="26" selection-start-column="92" selection-end-line="26" selection-end-column="92" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="techgorilla.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/techgorilla.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="799">
+              <caret line="47" column="5" lean-forward="false" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+              <folding>
+                <marker date="1526599005669" expanded="true" signature="76666:76710" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -187,7 +199,6 @@
         <option value="$PROJECT_DIR$/hooks/techgorilla_hooks.php" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/includes/navbar.tpl" />
-        <option value="$PROJECT_DIR$/js/techgorilla.js" />
         <option value="$PROJECT_DIR$/js/functions.js" />
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/login.tpl" />
@@ -205,6 +216,7 @@
         <option value="$PROJECT_DIR$/css/custom.scss" />
         <option value="$PROJECT_DIR$/css/techgorilla.css" />
         <option value="$PROJECT_DIR$/includes/head.tpl" />
+        <option value="$PROJECT_DIR$/js/techgorilla.js" />
       </list>
     </option>
   </component>
@@ -340,12 +352,12 @@
       <workItem from="1526352479784" duration="16235000" />
       <workItem from="1526373408029" duration="534000" />
       <workItem from="1526517570517" duration="20424000" />
-      <workItem from="1526596821595" duration="2033000" />
+      <workItem from="1526596821595" duration="2184000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43603000" />
+    <option name="totallyTimeSpent" value="43754000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -445,7 +457,7 @@
         <state relative-caret-position="107">
           <caret line="569" column="0" lean-forward="true" selection-start-line="569" selection-start-column="0" selection-end-line="569" selection-end-column="0" />
           <folding>
-            <marker date="1526469572250" expanded="true" signature="76662:76706" ph="..." />
+            <marker date="1526599005669" expanded="true" signature="76666:76710" ph="..." />
           </folding>
         </state>
       </provider>
@@ -560,16 +572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/techgorilla.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-          <folding>
-            <marker date="1526469572250" expanded="true" signature="76662:76706" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -800,6 +802,16 @@
         <state relative-caret-position="442">
           <caret line="26" column="92" lean-forward="false" selection-start-line="26" selection-start-column="92" selection-end-line="26" selection-end-column="92" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/techgorilla.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="5" lean-forward="false" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+          <folding>
+            <marker date="1526599005669" expanded="true" signature="76666:76710" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
