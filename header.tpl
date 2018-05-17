@@ -172,7 +172,7 @@
 -->
 
 {if $templatefile == 'homepage'}
-    <section id="slider" class="slider dark" style="background-color: #292929;">
+    <section id="homepage-items" class="slider dark" style="background-color: #292929;">
         <div class="row clearfix">
             <div class="heading-block title-center topmargin">
                 <h1 data-style-xxs="font-size: 21px; font-weight: 300;" data-style-xs="font-size: 23px; font-weight: 300;" data-style-sm="font-size: 30px; font-weight: 300;" data-style-md="font-size: 36px; font-weight: 300;" data-style-lg="font-size: 39px; font-weight: 300;" style="font-size: 39px; font-weight: 300;">{$LANG.doToday}</h1>
