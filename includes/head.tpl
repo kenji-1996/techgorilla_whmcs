@@ -22,9 +22,9 @@
         saving = '{lang key="markdown.saving"}',
         whmcsBaseUrl = "{\WHMCS\Utility\Environment\WebHelper::getBaseUrl()}";
 </script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="{$WEB_ROOT}/templates/{$template}/js/scripts.min.js?v={$versionHash}"></script>
 <!--<script src="{$WEB_ROOT}/templates/{$template}/js/main.js?v={$versionHash}"></script>-->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="{$WEB_ROOT}/templates/{$template}/js/techgorilla.js?v={$versionHash}"></script>
 <script src="{$WEB_ROOT}/templates/{$template}/js/functions.js?v={$versionHash}"></script>
 
