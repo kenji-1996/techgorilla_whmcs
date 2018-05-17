@@ -107,12 +107,12 @@ section#main-body {
   letter-spacing: 1px;
   text-decoration: none;
   margin-top: 35px;
-  background: rgb(55,90,113);
-  background: rgb(12,40,59);
-  background: -moz-linear-gradient(top, rgba(12,40,59,1) 0%, rgba(0,35,58,1) 100%);
-  background: -webkit-linear-gradient(top, rgba(12,40,59,1) 0%,rgba(0,35,58,1) 100%);
-  background: linear-gradient(to bottom, rgba(12,40,59,1) 0%,rgba(0,35,58,1) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0c283b', endColorstr='#00233a',GradientType=0 );
+  background: rgb(148,54,54);
+  background: rgb(90,16,16);
+  background: -moz-linear-gradient(top, rgba(59,12,12,1) 0%, rgba(58,0,0,1) 100%);
+  background: -webkit-linear-gradient(top, rgba(59,12,12,1) 0%, rgba(58,0,0,1) 100%);
+  background: linear-gradient(to bottom,rgba(59,12,12,1) 0%, rgba(58,0,0,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3B0C0C', endColorstr='#3A0000',GradientType=0 );
   opacity: 1;
   z-index: 3;
   position: relative;
@@ -121,11 +121,11 @@ section#main-body {
 
 
 .fetures-place a:hover{
-  background: rgb(18,42,58); /* Old browsers */
-  background: -moz-linear-gradient(top, rgba(18,42,58,1) 0%, rgba(15,40,56,1) 100%); /* FF3.6-15 */
-  background: -webkit-linear-gradient(top, rgba(18,42,58,1) 0%,rgba(15,40,56,1) 100%); /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to bottom, rgba(18,42,58,1) 0%,rgba(15,40,56,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#122a3a', endColorstr='#0f2838',GradientType=0 );
+  background: rgb(58,18,18); /* Old browsers */
+  background: -moz-linear-gradient(top, rgba(58,18,18,1) 0%, rgba(56,15,15,1) 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, rgba(18,42,58,1) 0%,rgba(56,15,15,1) 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, rgba(58,18,18,1) 0%,rgba(56,15,15,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3A1212', endColorstr='#380F0F',GradientType=0 );
   color: #fff;
   text-decoration: none;
 }
