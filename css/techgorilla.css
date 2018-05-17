@@ -9,7 +9,10 @@
 section#main-body {
     padding: 0 !important;
 }
-
+.text-primary {
+    font-weight: 300;
+    color: #CCC;
+}
 .home-shortcuts {
     background-color: #292929;
     color: #CCC;
