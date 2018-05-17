@@ -172,7 +172,7 @@
 -->
 
 {if $templatefile == 'homepage'}
-    <section id="slider" class="slider dark" style="background-color: #292929; height: 450px;" data-height-xxs="550" data-height-xs="450" data-height-sm="400" data-height-md="430" data-height-lg="450">
+    <section id="slider" class="slider dark" style="background-color: #292929;" data-height-xxs="550" data-height-xs="450" data-height-sm="400" data-height-md="430" data-height-lg="450">
         <div class="row clearfix">
             <div class="heading-block title-center topmargin">
                 <h1 data-style-xxs="font-size: 21px; font-weight: 300;" data-style-xs="font-size: 23px; font-weight: 300;" data-style-sm="font-size: 30px; font-weight: 300;" data-style-md="font-size: 36px; font-weight: 300;" data-style-lg="font-size: 39px; font-weight: 300;" style="font-size: 39px; font-weight: 300;">{$LANG.doToday}</h1>
@@ -181,17 +181,16 @@
         <div class="container">
             <div data-vc-full-width="true" data-vc-full-width-init="true" class="row wpb_row row-fluid custom_1504880319686 row-has-fill" style="position: relative;left: -65px;box-sizing: border-box;width: 1330px;padding-left: 65px;padding-right: 65px;">
                 <div class="ovrl"></div>
-                <div class="wpb_column column_container col-sm-12 ">
+                <div class="wpb_column container col-sm-12 ">
                     <div class="column-inner ">
                         <div class="wpb_wrapper"></div>
                     </div>
                 </div>
-                <div class="wpb_column column_container col-sm-6 col-lg-3 col-md-3 col-xs-12 ">
+                <div class="wpb_column container col-sm-6 col-lg-3 col-md-3 col-xs-12 ">
                     <div class="column-inner">
                         <div class="wpb_wrapper">
                             <!--fetures-->
                             <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn;">
-                                <span class="boldtrin"><b>free</b></span>
                                 <i class="flaticon-shield-5"></i>
                                 <h5>Full Security Team</h5>
 
@@ -204,7 +203,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="wpb_column column_container col-sm-6 col-lg-3 col-md-3 col-xs-12 ">
+                <div class="wpb_column container col-sm-6 col-lg-3 col-md-3 col-xs-12 ">
                     <div class="column-inner ">
                         <div class="wpb_wrapper">
                             <!--fetures-->
@@ -221,7 +220,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="wpb_column column_container col-sm-6 col-lg-3 col-md-3 col-xs-12 ">
+                <div class="wpb_column container col-sm-6 col-lg-3 col-md-3 col-xs-12 ">
                     <div class="column-inner ">
                         <div class="wpb_wrapper">
                             <!--fetures-->
@@ -238,7 +237,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="wpb_column column_container col-sm-6 col-lg-3 col-md-3 col-xs-12 ">
+                <div class="wpb_column container col-sm-6 col-lg-3 col-md-3 col-xs-12 ">
                     <div class="column-inner ">
                         <div class="wpb_wrapper">
                             <!--fetures-->
@@ -255,7 +254,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="wpb_column column_container col-sm-12 ">
+                <div class="wpb_column container col-sm-12 ">
                     <div class="column-inner ">
                         <div class="wpb_wrapper"></div>
                     </div>
