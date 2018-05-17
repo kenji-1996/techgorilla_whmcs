@@ -10360,7 +10360,7 @@ section#header .search .btn {
 
 section#main-body {
     margin: 0;
-    padding: 20px 0;
+    padding: 0;
     min-height: 350px;
     background-color: #fff;
 }
