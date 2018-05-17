@@ -189,9 +189,9 @@
                                 <i class="fa fa-hdd-o"></i>
                                 <h5>Full Security Team</h5>
 
-                                <p>BEST TEAM</p>
+                                <p>ORDER HOSTING</p>
 
-                                <span>Lorem Ipsum Dolor Sit Amet, Consectetuer Adipiscing Elit. Aenean Commodo Ligula Eget Dolor.</span>
+                                <span>Pick a hosting plan from us that suits your needs.</span>
                                 <a href="#">read more</a>
                             </div>
 
