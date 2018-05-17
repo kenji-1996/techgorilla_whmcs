@@ -202,13 +202,13 @@
                         <div class="wpb_wrapper">
                             <!--fetures-->
                             <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn;">
-                                <i class="fa fa-hdd-o"></i>
-                                <h5>Premium Packages</h5>
+                                <i class="fa fa-ticket"></i>
+                                <h5>Support System</h5>
 
-                                <p>{$LANG.orderhosting}</p>
+                                <p>{$LANG.getsupport}</p>
 
-                                <span>Pick a hosting plan from us that suits your needs.</span>
-                                <a href="cart.php">order now</a>
+                                <span>Get help fast by creating a support ticket.</span>
+                                <a href="cart.php">Create Ticket</a>
                             </div>
                         </div>
                     </div>
@@ -218,7 +218,7 @@
                         <div class="wpb_wrapper">
                             <!--fetures-->
                             <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn;">
-                                <i class="fa fa-hdd-o"></i>
+                                <i class="fa fa-server"></i>
                                 <h5>Network Status</h5>
 
                                 <p>Check Servers</p>
@@ -234,7 +234,7 @@
                         <div class="wpb_wrapper">
                             <!--fetures-->
                             <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn;">
-                                <i class="fa fa-hdd-o"></i>
+                                <i class="fa fa-shopping-cart"></i>
                                 <h5>Client Area</h5>
 
                                 <p>{$LANG.makepayment}</p>
