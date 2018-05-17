@@ -14,7 +14,7 @@ section#main-body {
     background-color: #292929;
     color: #CCC;
     border-top: 3px solid rgba(0,0,0,0.2);
-    border-top-color: rgba(0,0,0,0.2);
+    border-color: rgba(0,0,0,0.2);
 }
 .home-shortcuts ul {
     list-style-type: none;
@@ -34,6 +34,7 @@ section#main-body {
     font-weight: 300;
 }
 .home-shortcuts li:first-child {
+
     border-right: 2px solid rgba(0,0,0,0.2);
 }
 .home-shortcuts li a {
