@@ -77,8 +77,8 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="557" column="13" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="557" selection-end-column="13" />
+            <state relative-caret-position="68">
+              <caret line="729" column="7" lean-forward="true" selection-start-line="594" selection-start-column="0" selection-end-line="729" selection-end-column="7" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <marker date="1526469572233" expanded="true" signature="130339:130344" ph="­" />
@@ -105,9 +105,9 @@
         <entry file="file://$PROJECT_DIR$/js/techgorilla.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="496">
-              <caret line="2957" column="13" lean-forward="false" selection-start-line="2957" selection-start-column="13" selection-end-line="2957" selection-end-column="13" />
+              <caret line="2538" column="7" lean-forward="false" selection-start-line="2538" selection-start-column="7" selection-end-line="2538" selection-end-column="7" />
               <folding>
-                <marker date="1526600100480" expanded="true" signature="76662:76706" ph="..." />
+                <marker date="1526600175615" expanded="true" signature="76662:76706" ph="..." />
               </folding>
             </state>
           </provider>
@@ -352,12 +352,12 @@
       <workItem from="1526352479784" duration="16235000" />
       <workItem from="1526373408029" duration="534000" />
       <workItem from="1526517570517" duration="20424000" />
-      <workItem from="1526596821595" duration="3276000" />
+      <workItem from="1526596821595" duration="3349000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44846000" />
+    <option name="totallyTimeSpent" value="44919000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -458,7 +458,7 @@
         <state relative-caret-position="107">
           <caret line="569" column="0" lean-forward="true" selection-start-line="569" selection-start-column="0" selection-end-line="569" selection-end-column="0" />
           <folding>
-            <marker date="1526600100480" expanded="true" signature="76662:76706" ph="..." />
+            <marker date="1526600175615" expanded="true" signature="76662:76706" ph="..." />
           </folding>
         </state>
       </provider>
@@ -783,8 +783,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="557" column="13" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="557" selection-end-column="13" />
+        <state relative-caret-position="68">
+          <caret line="729" column="7" lean-forward="true" selection-start-line="594" selection-start-column="0" selection-end-line="729" selection-end-column="7" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <marker date="1526469572233" expanded="true" signature="130339:130344" ph="­" />
@@ -809,9 +809,9 @@
     <entry file="file://$PROJECT_DIR$/js/techgorilla.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="496">
-          <caret line="2957" column="13" lean-forward="false" selection-start-line="2957" selection-start-column="13" selection-end-line="2957" selection-end-column="13" />
+          <caret line="2538" column="7" lean-forward="false" selection-start-line="2538" selection-start-column="7" selection-end-line="2538" selection-end-column="7" />
           <folding>
-            <marker date="1526600100480" expanded="true" signature="76662:76706" ph="..." />
+            <marker date="1526600175615" expanded="true" signature="76662:76706" ph="..." />
           </folding>
         </state>
       </provider>
