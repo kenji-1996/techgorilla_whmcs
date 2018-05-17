@@ -12,6 +12,13 @@
             {if $inShoppingCart && $templatefile == 'viewcart'}
                 {$LANG.cartreviewcheckout}
             {/if}
+            {if $inShoppingCart && $templatefile == 'products'}
+                {if $productGroup.headline}
+                    {$productGroup.headline}
+                {else}
+                    {$productGroup.name}
+                {/if}
+            {/if}
         </span>
     </div>
 </section>
