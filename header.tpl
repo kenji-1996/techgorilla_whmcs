@@ -213,11 +213,11 @@
                         </div>
                     </div>
                 </div>
-                <div class="wpb_column container col-sm-6 col-lg-3 col-md-3 col-xs-12 " style="padding-bottom: 20px;">
+                <div class="wpb_column container col-sm-6 col-lg-3 col-md-3 col-xs-12" style="padding-bottom: 20px;">
                     <div class="column-inner ">
                         <div class="wpb_wrapper">
                             <!--fetures-->
-                            < <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn;">
+                            <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn;">
                                 <i class="fa fa-hdd-o"></i>
                                 <h5>Premium Packages</h5>
 
