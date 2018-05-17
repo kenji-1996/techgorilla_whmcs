@@ -15,9 +15,9 @@
         {if $announcement@index < 2}
             <div class="announcement-single">
                 <h3>
-                    <span class="label label-default">{$carbon->translatePassedToFormat($announcement.rawDate, 'M jS')}</span>
                     <a href="{routePath('announcement-view', $announcement.id, $announcement.urlfriendlytitle)}">{$announcement.title}</a>
                 </h3>
+                <p class="label label-default">{$carbon->translatePassedToFormat($announcement.rawDate, 'M jS')}</p>
 
                 <blockquote>
                     <p>
