@@ -267,10 +267,10 @@
 {if !$primarySidebar->hasChildren() && !$inShoppingCart && $templatefile != 'homepage' && !$skipMainBodyContainer}
     {include file="$template/includes/pageheader.tpl" title=$displayTitle desc=$tagline showbreadcrumb=true}
 {/if}
-<section id="main-body testss">
+
+<section id="main-body">
     <div class="container{if $skipMainBodyContainer}-fluid without-padding{/if}">
         <div class="row">
-
         {if !$inShoppingCart && ($primarySidebar->hasChildren() || $secondarySidebar->hasChildren())}
             <!-- pageheader -->
             <div class="col-md-3 pull-md-left sidebar">
