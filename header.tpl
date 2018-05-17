@@ -177,6 +177,37 @@
             <div class="heading-block title-center topmargin">
                 <h1 data-style-xxs="font-size: 21px; font-weight: 300;" data-style-xs="font-size: 23px; font-weight: 300;" data-style-sm="font-size: 30px; font-weight: 300;" data-style-md="font-size: 36px; font-weight: 300;" data-style-lg="font-size: 39px; font-weight: 300;" style="font-size: 39px; font-weight: 300;">{$LANG.doToday}</h1>
             </div>
+            <!--
+            <div class="row">
+                <div class="col-sm-3"></div>
+                <div class="col-lg-2 col-md-6 text-center">
+                    <div class="service-box mt-5 mx-auto">
+                        <a href="cart.php" >
+                            <i class="fa fa-3x fa-hdd-o text-primary mb-3 sr-icons" data-sr-id="2" style=" visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></i>
+                            <h4 class="text-primary homepage-sublinks">Order hosting</h4>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-6 text-center">
+                    <div class="service-box mt-5 mx-auto">
+                        <a href="cart.php" >
+                            <i class="fa fa-3x fa-hdd-o text-primary mb-3 sr-icons" data-sr-id="2" style=" visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></i>
+                            <h4 class="text-primary homepage-sublinks">Order hosting</h4>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-6 text-center">
+                    <div class="service-box mt-5 mx-auto">
+                        <a href="cart.php" >
+                            <i class="fa fa-3x fa-hdd-o text-primary mb-3 sr-icons" data-sr-id="2" style=" visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></i>
+                            <h4 class="text-primary homepage-sublinks">Order hosting</h4>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-sm-3"></div>
+            </div>-->
+        </div>
+        <div class="container">
             <div data-vc-full-width="true" data-vc-full-width-init="true" class="row wpb_row row-fluid custom_1504880319686 row-has-fill" style="position: relative;left: -65px;box-sizing: border-box;width: 1330px;padding-left: 65px;padding-right: 65px;">
                 <div class="ovrl"></div>
                 <div class="wpb_column column_container col-sm-12 ">
@@ -259,35 +290,6 @@
                     </div>
                 </div>
             </div>
-            <!--
-            <div class="row">
-                <div class="col-sm-3"></div>
-                <div class="col-lg-2 col-md-6 text-center">
-                    <div class="service-box mt-5 mx-auto">
-                        <a href="cart.php" >
-                            <i class="fa fa-3x fa-hdd-o text-primary mb-3 sr-icons" data-sr-id="2" style=" visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></i>
-                            <h4 class="text-primary homepage-sublinks">Order hosting</h4>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-2 col-md-6 text-center">
-                    <div class="service-box mt-5 mx-auto">
-                        <a href="cart.php" >
-                            <i class="fa fa-3x fa-hdd-o text-primary mb-3 sr-icons" data-sr-id="2" style=" visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></i>
-                            <h4 class="text-primary homepage-sublinks">Order hosting</h4>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-2 col-md-6 text-center">
-                    <div class="service-box mt-5 mx-auto">
-                        <a href="cart.php" >
-                            <i class="fa fa-3x fa-hdd-o text-primary mb-3 sr-icons" data-sr-id="2" style=" visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></i>
-                            <h4 class="text-primary homepage-sublinks">Order hosting</h4>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-sm-3"></div>
-            </div>-->
         </div>
     </section>
     <!--<section id="home-banner">
