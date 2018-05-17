@@ -198,20 +198,21 @@
                     </div>
                 </div>
                 <div class="wpb_column container col-sm-6 col-lg-3 col-md-3 col-xs-12" style="padding-bottom: 20px;">
-                    <div class="column-inner ">
-                        <div class="wpb_wrapper">
-                            <!--fetures-->
-                            <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn;">
-                                <i class="fa fa-ticket"></i>
-                                <h5>Support System</h5>
+                    <a href="cart.php">
+                        <div class="column-inner ">
+                            <div class="wpb_wrapper">
+                                <!--fetures-->
+                                <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn;">
+                                    <i class="fa fa-ticket"></i>
+                                    <h5>Support System</h5>
 
-                                <p>{$LANG.getsupport}</p>
+                                    <p>{$LANG.getsupport}</p>
 
-                                <span>Get help fast by creating a support ticket.</span>
-                                <a href="cart.php">Create Ticket</a>
+                                    <span>Get help fast by creating a support ticket.</span>
+                                </div>
                             </div>
                         </div>
-                    </div>
+                    </a>
                 </div>
                 <div class="wpb_column container col-sm-6 col-lg-3 col-md-3 col-xs-12" style="padding-bottom: 20px;">
                     <div class="column-inner ">
