@@ -10,6 +10,12 @@ section#main-body {
     padding: 0 !important;
 }
 
+.home-shortcuts {
+    background-color: #292929;
+    color: #CCC;
+    border-top-color: rgba(0,0,0,0.2);
+}
+
 html {
     font-family: sans-serif;
     -ms-text-size-adjust: 100%;
