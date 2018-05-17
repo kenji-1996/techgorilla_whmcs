@@ -19,8 +19,8 @@
       <file leaf-file-name="custom.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/custom.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="96" column="1" lean-forward="false" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
+            <state relative-caret-position="383">
+              <caret line="60" column="35" lean-forward="false" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -92,7 +92,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>0 15</find>
       <find>confirmation</find>
       <find>.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12</find>
       <find>float: left</find>
@@ -122,10 +121,11 @@
       <find>#264b65</find>
       <find>{$LANG.getsupport}</find>
       <find>upper</find>
+      <find>shadow</find>
     </findStrings>
     <replaceStrings>
-      <replace>#BD0102</replace>
       <replace>container</replace>
+      <replace>#BD0102</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\Kenji\Documents\Buisness\WHMCS\templates\techgorilla_whmcs\store</dir>
@@ -302,12 +302,12 @@
       <updated>1526352478703</updated>
       <workItem from="1526352479784" duration="16235000" />
       <workItem from="1526373408029" duration="534000" />
-      <workItem from="1526517570517" duration="14825000" />
+      <workItem from="1526517570517" duration="14895000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35971000" />
+    <option name="totallyTimeSpent" value="36041000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -790,8 +790,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="96" column="1" lean-forward="false" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
+        <state relative-caret-position="383">
+          <caret line="60" column="35" lean-forward="false" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
           <folding />
         </state>
       </provider>
