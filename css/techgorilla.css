@@ -16,6 +16,47 @@ section#main-body {
     border-top: 5px solid rgba(0,0,0,0.2);
     border-top-color: rgba(0,0,0,0.2);
 }
+.home-shortcuts ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.home-shortcuts li {
+    float: left;
+    width: 24%;
+    padding: 5px 3px;
+    border-right: 1px solid #0E88B0;
+    font-size: 0.9em;
+    text-align: center;
+    cursor: pointer;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.home-shortcuts li:first-child {
+    border-left: 1px solid #0E88B0;
+}
+.home-shortcuts li a {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+}
+.home-shortcuts li i {
+    font-size: 22px;
+}
+.home-shortcuts li p {
+    margin: 2px 0 0;
+    text-transform: uppercase;
+}
+.home-shortcuts li span {
+    display: none;
+}
+.home-shortcuts li:hover span {
+    display: inline-block;
+}
+.home-shortcuts .lead {
+    margin: 0;
+    line-height: 55px;
+}
 
 html {
     font-family: sans-serif;
