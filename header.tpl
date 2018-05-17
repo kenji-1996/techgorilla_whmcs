@@ -268,7 +268,7 @@
     {include file="$template/includes/pageheader.tpl" title=$displayTitle desc=$tagline showbreadcrumb=true}
 {/if}
 
-{if !$primarySidebar->hasChildren() && $inShoppingCart && $templatefile == 'viewcart' && !$skipMainBodyContainer}
+{if !$primarySidebar->hasChildren() && $inShoppingCart && !$skipMainBodyContainer}
     {include file="$template/includes/pageheader.tpl" title=$displayTitle desc=$tagline showbreadcrumb=true}
 {/if}
 
