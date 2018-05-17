@@ -187,14 +187,13 @@
                             <!--fetures-->
                             <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn;">
                                 <i class="fa fa-hdd-o"></i>
-                                <h5>Full Security Team</h5>
+                                <h5>Premium Packages</h5>
 
-                                <p>ORDER HOSTING</p>
+                                <p>{$LANG.orderhosting}</p>
 
                                 <span>Pick a hosting plan from us that suits your needs.</span>
-                                <a href="#">read more</a>
+                                <a href="cart.php">order now</a>
                             </div>
-
                         </div>
                     </div>
                 </div>
@@ -204,14 +203,29 @@
                             <!--fetures-->
                             <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn;">
                                 <i class="fa fa-hdd-o"></i>
-                                <h5>100% Working</h5>
+                                <h5>Premium Packages</h5>
 
-                                <p>BEST TEAM</p>
+                                <p>{$LANG.orderhosting}</p>
 
-                                <span>Lorem Ipsum Dolor Sit Amet, Consectetuer Adipiscing Elit. Aenean Commodo Ligula Eget Dolor.</span>
-                                <a href="#">read more</a>
+                                <span>Pick a hosting plan from us that suits your needs.</span>
+                                <a href="cart.php">order now</a>
                             </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="wpb_column container col-sm-6 col-lg-3 col-md-3 col-xs-12 " style="padding-bottom: 20px;">
+                    <div class="column-inner ">
+                        <div class="wpb_wrapper">
+                            <!--fetures-->
+                            < <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn;">
+                                <i class="fa fa-hdd-o"></i>
+                                <h5>Premium Packages</h5>
 
+                                <p>{$LANG.orderhosting}</p>
+
+                                <span>Pick a hosting plan from us that suits your needs.</span>
+                                <a href="cart.php">order now</a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -221,31 +235,13 @@
                             <!--fetures-->
                             <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn;">
                                 <i class="fa fa-hdd-o"></i>
-                                <h5>Effective Firewall</h5>
+                                <h5>Premium Packages</h5>
 
-                                <p>BEST TEAM</p>
+                                <p>{$LANG.orderhosting}</p>
 
-                                <span>Lorem Ipsum Dolor Sit Amet, Consectetuer Adipiscing Elit. Aenean Commodo Ligula Eget Dolor</span>
-                                <a href="#">read more</a>
+                                <span>Pick a hosting plan from us that suits your needs.</span>
+                                <a href="cart.php">order now</a>
                             </div>
-
-                        </div>
-                    </div>
-                </div>
-                <div class="wpb_column container col-sm-6 col-lg-3 col-md-3 col-xs-12 " style="padding-bottom: 20px;">
-                    <div class="column-inner ">
-                        <div class="wpb_wrapper">
-                            <!--fetures-->
-                            <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn;">
-                                <i class="fa fa-hdd-o"></i>
-                                <h5>Technical Support</h5>
-
-                                <p>BEST TEAM</p>
-
-                                <span>Lorem Ipsum Dolor Sit Amet, Consectetuer Adipiscing Elit. Aenean Commodo Ligula Eget Dolor.</span>
-                                <a href="#">read more</a>
-                            </div>
-
                         </div>
                     </div>
                 </div>
