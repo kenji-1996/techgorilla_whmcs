@@ -14,6 +14,8 @@
     {foreach $announcements as $announcement}
         {if $announcement@index < 2}
             <div class="announcement-single">
+                    <div class="left">Left with Flex</div>
+                    <div class="right">Right with Flex</div>
                 <h3>
                     <a href="{routePath('announcement-view', $announcement.id, $announcement.urlfriendlytitle)}">{$announcement.title}</a>
                 </h3>
