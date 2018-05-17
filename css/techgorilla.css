@@ -9,10 +9,6 @@
 section#main-body {
     padding: 0 !important;
 }
-.text-primary {
-    font-weight: 300;
-    color: #CCC;
-}
 .home-shortcuts {
     background-color: #292929;
     color: #CCC;
@@ -29984,18 +29980,8 @@ only screen and (                min-resolution: 2dppx) and (max-width: 991px) {
  * compiled file, but it's generally better to create a new file per style scope.
  *
  */
-
-/*
-
-
-
-
-
-
-
-
-
-
-
- */
+.text-primary {
+    font-weight: 300;
+    color: #CCC;
+}
 
