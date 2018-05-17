@@ -182,21 +182,25 @@
                 <div class="col-lg-2 col-md-6 text-center">
                     <div class="service-box mt-5 mx-auto">
                         <a href="cart.php" >
-                            <i class="fa fa-hdd-o text-primary mb-3 sr-icons" data-sr-id="2" style=" visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></i>
-                            <h3 class="text-primary homepage-sublinks">Order hosting</h3>
+                            <i class="fa fa-4x fa-hdd-o text-primary mb-3 sr-icons" data-sr-id="2" style=" visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></i>
+                            <h4 class="text-primary homepage-sublinks">Order hosting</h4>
                         </a>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-6 text-center">
                     <div class="service-box mt-5 mx-auto">
-                        <i class="fa fa-hdd-o text-primary mb-3 sr-icons" data-sr-id="2" style=" visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></i>
-                        <span class="text-primary homepage-sublinks">Make payment</span>
+                        <a href="cart.php" >
+                            <i class="fa fa-4x fa-hdd-o text-primary mb-3 sr-icons" data-sr-id="2" style=" visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></i>
+                            <h4 class="text-primary homepage-sublinks">Order hosting</h4>
+                        </a>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-6 text-center">
                     <div class="service-box mt-5 mx-auto">
-                        <i class="fa fa-hdd-o text-primary mb-3 sr-icons" data-sr-id="2" style=" visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></i>
-                        <span class="text-primary homepage-sublinks">Get Support</span>
+                        <a href="cart.php" >
+                            <i class="fa fa-4x fa-hdd-o text-primary mb-3 sr-icons" data-sr-id="2" style=" visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></i>
+                            <h4 class="text-primary homepage-sublinks">Order hosting</h4>
+                        </a>
                     </div>
                 </div>
                 <div class="col-sm-3"></div>
