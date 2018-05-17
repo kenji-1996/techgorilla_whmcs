@@ -211,9 +211,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 col-md-6 text-center">
-                    <div class="service-box mt-5 mx-auto"> <i class="fa fa-4x fa-diamond text-primary mb-3 sr-icons" data-sr-id="2" style="; visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></i>
-                        <h3 class="mb-3">Reliable</h3>
-                        <p class="text-muted mb-0">Built following the latest industry standard practices.</p>
+                    <div class="service-box mt-5 mx-auto">
+                        <i class="fa fa-4x fa-hdd-o text-primary mb-3 sr-icons" data-sr-id="2" style="; visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></i><h3 class="mb-3">Reliable</h3>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
