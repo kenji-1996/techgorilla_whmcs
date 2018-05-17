@@ -288,15 +288,15 @@
         </div>
     </div>
     <div class="container">
-        <div data-vc-full-width="true" data-vc-full-width-init="true" class="vc_row wpb_row vc_row-fluid vc_custom_1504880319686 vc_row-has-fill" style="position: relative;left: -65px;box-sizing: border-box;width: 1330px;padding-left: 65px;padding-right: 65px;">
+        <div data-vc-full-width="true" data-vc-full-width-init="true" class="row wpb_row row-fluid custom_1504880319686 row-has-fill" style="position: relative;left: -65px;box-sizing: border-box;width: 1330px;padding-left: 65px;padding-right: 65px;">
             <div class="ovrl"></div>
-            <div class="wpb_column vc_column_container vc_col-sm-12 ">
-                <div class="vc_column-inner ">
+            <div class="wpb_column column_container col-sm-12 ">
+                <div class="column-inner ">
                     <div class="wpb_wrapper"></div>
                 </div>
             </div>
-            <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-3 vc_col-xs-12 ">
-                <div class="vc_column-inner">
+            <div class="wpb_column column_container col-sm-6 col-lg-3 col-md-3 col-xs-12 ">
+                <div class="column-inner">
                     <div class="wpb_wrapper">
                         <!--fetures-->
                         <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn;">
@@ -313,8 +313,8 @@
                     </div>
                 </div>
             </div>
-            <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-3 vc_col-xs-12 ">
-                <div class="vc_column-inner ">
+            <div class="wpb_column column_container col-sm-6 col-lg-3 col-md-3 col-xs-12 ">
+                <div class="column-inner ">
                     <div class="wpb_wrapper">
                         <!--fetures-->
                         <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn;">
@@ -330,8 +330,8 @@
                     </div>
                 </div>
             </div>
-            <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-3 vc_col-xs-12 ">
-                <div class="vc_column-inner ">
+            <div class="wpb_column column_container col-sm-6 col-lg-3 col-md-3 col-xs-12 ">
+                <div class="column-inner ">
                     <div class="wpb_wrapper">
                         <!--fetures-->
                         <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn;">
@@ -347,8 +347,8 @@
                     </div>
                 </div>
             </div>
-            <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-3 vc_col-xs-12 ">
-                <div class="vc_column-inner ">
+            <div class="wpb_column column_container col-sm-6 col-lg-3 col-md-3 col-xs-12 ">
+                <div class="column-inner ">
                     <div class="wpb_wrapper">
                         <!--fetures-->
                         <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn;">
@@ -364,8 +364,8 @@
                     </div>
                 </div>
             </div>
-            <div class="wpb_column vc_column_container vc_col-sm-12 ">
-                <div class="vc_column-inner ">
+            <div class="wpb_column column_container col-sm-12 ">
+                <div class="column-inner ">
                     <div class="wpb_wrapper"></div>
                 </div>
             </div>
