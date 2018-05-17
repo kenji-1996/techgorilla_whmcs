@@ -114,10 +114,10 @@
       <file leaf-file-name="techgorilla.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/techgorilla.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="47" column="5" lean-forward="false" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+            <state relative-caret-position="17">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
-                <marker date="1526599005669" expanded="true" signature="76666:76710" ph="..." />
+                <marker date="1526599068535" expanded="true" signature="76662:76706" ph="..." />
               </folding>
             </state>
           </provider>
@@ -352,12 +352,12 @@
       <workItem from="1526352479784" duration="16235000" />
       <workItem from="1526373408029" duration="534000" />
       <workItem from="1526517570517" duration="20424000" />
-      <workItem from="1526596821595" duration="2184000" />
+      <workItem from="1526596821595" duration="2247000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43754000" />
+    <option name="totallyTimeSpent" value="43817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -457,7 +457,7 @@
         <state relative-caret-position="107">
           <caret line="569" column="0" lean-forward="true" selection-start-line="569" selection-start-column="0" selection-end-line="569" selection-end-column="0" />
           <folding>
-            <marker date="1526599005669" expanded="true" signature="76666:76710" ph="..." />
+            <marker date="1526599068535" expanded="true" signature="76662:76706" ph="..." />
           </folding>
         </state>
       </provider>
@@ -807,10 +807,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/techgorilla.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="5" lean-forward="false" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+        <state relative-caret-position="17">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
-            <marker date="1526599005669" expanded="true" signature="76666:76710" ph="..." />
+            <marker date="1526599068535" expanded="true" signature="76662:76706" ph="..." />
           </folding>
         </state>
       </provider>
