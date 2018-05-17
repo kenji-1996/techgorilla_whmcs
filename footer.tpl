@@ -20,10 +20,9 @@
 
                                 <!-- BEGIN Bottom Menu -->
                                 <div class="copyrights-menu copyright-links clearfix">
-
-                                    <a href="/cloud">Cloud</a>
-                                    <a href="/features">Features</a>
-                                    <a href="/pricing">Pricing</a>
+                                    <a href="/cart.php?gid=1">Web Hosting</a>
+                                    <a href="mailto:sales@techgorilla.io">sales@techgorilla.io</a>
+                                    <a href="tel:+61-416-723-376">+61 416 723 376</a>
                                     <a href="/dedicated-servers">Dedicated</a>
                                     <a href="/server-management">Server Management</a>
                                     <a href="/contact-us">Contact Us</a>
@@ -31,8 +30,8 @@
                                 </div>
                                 <!-- END Bottom Menu -->
 
-                                Copyrights © 2017 by MivoCloud S.R.L.<br>
-                                <div class="copyright-links"><a href="https://www.mivocloud.com/legal">Terms of Service / Privacy Policy / SLA</a></div>
+                                Copyrights © 2017 by TechGorilla<br>
+                                <div class="copyright-links"><a href="https://techgorilla.io/terms-of-service">Terms of Service</a></div>
                             </div>
 
                             <div class="col_one_third col_last tright">
@@ -41,7 +40,7 @@
                                     <form class="nobottommargin" action="https://www.mivocloud.com/plugins/cama_subscriber/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="3kkWGMXPiaATPQc9yFTJEfUOp2vu1bmf+mN4tB+J0XgoNaxM5MbvxsMtg2i4XbyI2Y43ycTROAapg1Vq10fiiw==">
                                         <input type="hidden" name="group_id" value="1">
                                         <div class="input-group divcenter">
-                                            <span class="input-group-addon"><i class="icon-email2"></i></span>
+                                            <span class="input-group-addon"><i class="fa fa-paper-plane"></i></span>
                                             <input type="email" id="widget-subscribe-form-email" name="email" class="form-control required email" placeholder="E-mail">
                                             <span class="input-group-btn">
                                         <button class="btn btn-success" style="background-color: #3EC303;" type="submit">Subscribe</button>
