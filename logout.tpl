@@ -1,7 +1,5 @@
 <div class="logincontainer">
 
-    {include file="$template/includes/pageheader.tpl" title=$LANG.logouttitle}
-
     {include file="$template/includes/alert.tpl" type="success" msg=$LANG.logoutsuccessful textcenter=true}
 
     <div class="main-content">

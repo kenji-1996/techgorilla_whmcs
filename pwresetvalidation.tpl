@@ -1,7 +1,5 @@
 <div class="logincontainer">
 
-    {include file="$template/includes/pageheader.tpl" title=$LANG.pwreset}
-
     {if $invalidlink}
 
         {include file="$template/includes/alert.tpl" type="danger" msg=$invalidlink textcenter=true}

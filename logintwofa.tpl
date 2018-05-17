@@ -1,4 +1,3 @@
-{include file="$template/includes/pageheader.tpl" title=$LANG.twofactorauth}
 <div class="logincontainer">
 
     {if $newbackupcode}
