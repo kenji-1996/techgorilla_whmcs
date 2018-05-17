@@ -29999,7 +29999,7 @@ only screen and (                min-resolution: 2dppx) and (max-width: 991px) {
  */
 .text-primary {
     font-weight: 300;
-    color: #CCC;
+    color: #FFF;
 }
 .homepage-sublinks {
     text-transform: uppercase;
