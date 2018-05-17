@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8c7acddb-a358-4499-9f67-dfbe935bd9bf" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/techgorilla.css" afterPath="$PROJECT_DIR$/css/techgorilla.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.tpl" afterPath="$PROJECT_DIR$/header.tpl" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="techgorilla.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="techgorilla.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/techgorilla.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
@@ -34,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.tpl" pinned="false" current-in-tab="false">
+      <file leaf-file-name="header.tpl" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/header.tpl">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="211" column="39" lean-forward="false" selection-start-line="211" selection-start-column="39" selection-end-line="211" selection-end-column="39" />
+              <caret line="217" column="45" lean-forward="false" selection-start-line="217" selection-start-column="45" selection-end-line="217" selection-end-column="45" />
               <folding>
                 <element signature="e#1655#2572#0#HTML" expanded="false" />
                 <element signature="e#2628#6439#0#HTML" expanded="false" />
@@ -147,8 +147,8 @@
         <option value="$PROJECT_DIR$/logintwofa.tpl" />
         <option value="$PROJECT_DIR$/includes/pageheader.tpl" />
         <option value="$PROJECT_DIR$/includes/head.tpl" />
-        <option value="$PROJECT_DIR$/header.tpl" />
         <option value="$PROJECT_DIR$/css/techgorilla.css" />
+        <option value="$PROJECT_DIR$/header.tpl" />
       </list>
     </option>
   </component>
@@ -278,12 +278,12 @@
       <updated>1526352478703</updated>
       <workItem from="1526352479784" duration="16235000" />
       <workItem from="1526373408029" duration="534000" />
-      <workItem from="1526517570517" duration="7709000" />
+      <workItem from="1526517570517" duration="7819000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28855000" />
+    <option name="totallyTimeSpent" value="28965000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -717,17 +717,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/header.tpl">
+    <entry file="file://$PROJECT_DIR$/css/techgorilla.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="211" column="39" lean-forward="false" selection-start-line="211" selection-start-column="39" selection-end-line="211" selection-end-column="39" />
-          <folding>
-            <element signature="e#1655#2572#0#HTML" expanded="false" />
-            <element signature="e#2628#6439#0#HTML" expanded="false" />
-            <element signature="e#6441#7460#0#HTML" expanded="false" />
-            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#8188#9629#0#HTML" expanded="false" />
-          </folding>
+        <state relative-caret-position="272">
+          <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -739,11 +733,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/techgorilla.css">
+    <entry file="file://$PROJECT_DIR$/header.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
-          <folding />
+        <state relative-caret-position="187">
+          <caret line="217" column="45" lean-forward="false" selection-start-line="217" selection-start-column="45" selection-end-line="217" selection-end-column="45" />
+          <folding>
+            <element signature="e#1655#2572#0#HTML" expanded="false" />
+            <element signature="e#2628#6439#0#HTML" expanded="false" />
+            <element signature="e#6441#7460#0#HTML" expanded="false" />
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#8188#9629#0#HTML" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
