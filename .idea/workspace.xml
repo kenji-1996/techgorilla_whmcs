@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8c7acddb-a358-4499-9f67-dfbe935bd9bf" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.tpl" afterPath="$PROJECT_DIR$/header.tpl" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -57,8 +56,8 @@
       <file leaf-file-name="header.tpl" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/header.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="210" column="0" lean-forward="false" selection-start-line="210" selection-start-column="0" selection-end-line="291" selection-end-column="18" />
+            <state relative-caret-position="346">
+              <caret line="212" column="33" lean-forward="false" selection-start-line="212" selection-start-column="33" selection-end-line="212" selection-end-column="33" />
               <folding>
                 <element signature="e#1655#2572#0#HTML" expanded="false" />
                 <element signature="e#2628#6439#0#HTML" expanded="false" />
@@ -107,7 +106,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>border-bottom: 1px solid rgba(255,255,255,0.05);</find>
       <find>nav</find>
       <find>sticky-header</find>
       <find>#header.sticky-header #header-wrap</find>
@@ -137,6 +135,7 @@
       <find>border-left</find>
       <find>/includes/pageheader.tpl</find>
       <find>upper</find>
+      <find>vc_</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\Kenji\Documents\Buisness\WHMCS\templates\techgorilla_whmcs\store</dir>
@@ -313,12 +312,12 @@
       <updated>1526352478703</updated>
       <workItem from="1526352479784" duration="16235000" />
       <workItem from="1526373408029" duration="534000" />
-      <workItem from="1526517570517" duration="10800000" />
+      <workItem from="1526517570517" duration="10837000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31946000" />
+    <option name="totallyTimeSpent" value="31983000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -781,8 +780,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/header.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="210" column="0" lean-forward="false" selection-start-line="210" selection-start-column="0" selection-end-line="291" selection-end-column="18" />
+        <state relative-caret-position="346">
+          <caret line="212" column="33" lean-forward="false" selection-start-line="212" selection-start-column="33" selection-end-line="212" selection-end-column="33" />
           <folding>
             <element signature="e#1655#2572#0#HTML" expanded="false" />
             <element signature="e#2628#6439#0#HTML" expanded="false" />
