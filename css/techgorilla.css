@@ -31,13 +31,15 @@ section#main-body {
     cursor: pointer;
     overflow: hidden;
     white-space: nowrap;
+    font-weight: 300;
 }
 .home-shortcuts li:first-child {
-    border-left: 1px solid #0E88B0;
+    border-right: 2px solid rgba(0,0,0,0.2);
 }
 .home-shortcuts li a {
     display: block;
     color: #fff;
+
     text-decoration: none;
 }
 .home-shortcuts li i {
