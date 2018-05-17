@@ -186,7 +186,7 @@
                         <div class="wpb_wrapper">
                             <!--fetures-->
                             <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn;">
-                                <i class="flaticon-shield-5"></i>
+                                <i class="fa fa-hdd-o"></i>
                                 <h5>Full Security Team</h5>
 
                                 <p>BEST TEAM</p>
@@ -203,7 +203,7 @@
                         <div class="wpb_wrapper">
                             <!--fetures-->
                             <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn;">
-                                <i class="flaticon-database-17"></i>
+                                <i class="fa fa-hdd-o"></i>
                                 <h5>100% Working</h5>
 
                                 <p>BEST TEAM</p>
@@ -220,7 +220,7 @@
                         <div class="wpb_wrapper">
                             <!--fetures-->
                             <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn;">
-                                <i class="flaticon-firewall"></i>
+                                <i class="fa fa-hdd-o"></i>
                                 <h5>Effective Firewall</h5>
 
                                 <p>BEST TEAM</p>
@@ -237,7 +237,7 @@
                         <div class="wpb_wrapper">
                             <!--fetures-->
                             <div class="fetures-place ripplehover wow fadeIn valence_fetures" style="visibility: visible; animation-name: fadeIn;">
-                                <i class="flaticon-computer-4"></i>
+                                <i class="fa fa-hdd-o"></i>
                                 <h5>Technical Support</h5>
 
                                 <p>BEST TEAM</p>
