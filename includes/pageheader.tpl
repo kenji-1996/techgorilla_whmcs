@@ -8,6 +8,7 @@
         <small>{if $showbreadcrumb}{include file="$template/includes/breadcrumb.tpl"}{/if}</small>
         <h1>{$title}</h1>
         <span>
+            <small>{if $showbreadcrumb}{include file="$template/includes/breadcrumb.tpl"}<br/>{/if}</small>
             {if $desc}
                 {$desc}
             {/if}
