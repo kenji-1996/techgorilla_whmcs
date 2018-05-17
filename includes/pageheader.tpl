@@ -19,6 +19,51 @@
                     {$productGroup.name}
                 {/if}
             {/if}
+            {if $inShoppingCart && $templatefile == 'adddomain'}
+                {if $domain eq "register"}
+                    {$LANG.registerdomain}
+                {elseif $domain eq "transfer"}
+                    {$LANG.transferdomain}
+                {/if}
+            {/if}
+            {if $inShoppingCart && $templatefile == 'addons'}
+                {$LANG.cartproductaddons}
+            {/if}
+            {if $inShoppingCart && $templatefile == 'checkout'}
+                {$LANG.orderForm.checkout}
+            {/if}
+            {if $inShoppingCart && $templatefile == 'complete'}
+                {$LANG.orderconfirmation}
+            {/if}
+            {if $inShoppingCart && $templatefile == 'configuredomains'}
+                {$LANG.cartdomainsconfig}
+            {/if}
+            {if $inShoppingCart && $templatefile == 'configureproducts'}
+                {$LANG.orderconfigure}
+            {/if}
+            {if $inShoppingCart && $templatefile == 'configureproductdomain'}
+                {$LANG.domaincheckerchoosedomain}
+            {/if}
+            {if $inShoppingCart && $templatefile == 'domain-renewals'}
+                {if $totalResults > 1}{lang key='domainrenewals'}{else}{lang key='domainrenewal'}{/if}
+                {if $totalResults > 5}
+                    <div class="pull-right">
+                            <input id="domainRenewalFilter" type="search" class="domain-renewals-filter form-control input-inline-100" placeholder="{lang key='searchenterdomain'}">
+                        </div>
+                {/if}
+            {/if}
+            {if $inShoppingCart && $templatefile == 'domainregister'}
+                {$LANG.registerdomain}
+            {/if}
+            {if $inShoppingCart && $templatefile == 'domaintransfer'}
+                {$LANG.transferdomain}
+            {/if}
+            {if $inShoppingCart && $templatefile == 'error'}
+                {$LANG.thereisaproblem}
+            {/if}
+            {if $inShoppingCart && $templatefile == 'fraudcheck'}
+                {$LANG.cartfraudcheck}
+            {/if}
         </span>
     </div>
 </section>
