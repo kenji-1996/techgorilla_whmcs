@@ -267,7 +267,7 @@
 {if !$primarySidebar->hasChildren() && !$showingLoginPage && !$inShoppingCart && $templatefile != 'homepage' && !$skipMainBodyContainer}
     {include file="$template/includes/pageheader.tpl" title=$displayTitle desc=$tagline showbreadcrumb=true}
 {/if}
-<section id="main-body">
+<section id="main-body testss">
     <div class="container{if $skipMainBodyContainer}-fluid without-padding{/if}">
         <div class="row">
 
