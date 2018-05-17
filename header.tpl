@@ -178,7 +178,7 @@
                 <h1 data-style-xxs="font-size: 21px; font-weight: 300;" data-style-xs="font-size: 23px; font-weight: 300;" data-style-sm="font-size: 30px; font-weight: 300;" data-style-md="font-size: 36px; font-weight: 300;" data-style-lg="font-size: 39px; font-weight: 300;" style="font-size: 39px; font-weight: 300;">{$LANG.doToday}</h1>
             </div>
         </div>
-        <div class="container">
+        <div class="container" style="padding-bottom: 20px;">
             <div data-vc-full-width="true" data-vc-full-width-init="true" class="row wpb_row row-fluid custom_1504880319686 row-has-fill">
                 <div class="ovrl"></div>
                 <div class="wpb_column container col-sm-12 ">
@@ -186,7 +186,7 @@
                         <div class="wpb_wrapper"></div>
                     </div>
                 </div>
-                <div class="wpb_column container col-sm-6 col-lg-3 col-md-3 col-xs-12 ">
+                <div class="wpb_column container col-sm-6 col-lg-3 col-md-3 col-xs-12" style="padding-bottom: 20px;">
                     <div class="column-inner">
                         <div class="wpb_wrapper">
                             <!--fetures-->
@@ -203,7 +203,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="wpb_column container col-sm-6 col-lg-3 col-md-3 col-xs-12 ">
+                <div class="wpb_column container col-sm-6 col-lg-3 col-md-3 col-xs-12" style="padding-bottom: 20px;">
                     <div class="column-inner ">
                         <div class="wpb_wrapper">
                             <!--fetures-->
@@ -220,7 +220,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="wpb_column container col-sm-6 col-lg-3 col-md-3 col-xs-12 ">
+                <div class="wpb_column container col-sm-6 col-lg-3 col-md-3 col-xs-12 " style="padding-bottom: 20px;">
                     <div class="column-inner ">
                         <div class="wpb_wrapper">
                             <!--fetures-->
@@ -237,7 +237,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="wpb_column container col-sm-6 col-lg-3 col-md-3 col-xs-12 ">
+                <div class="wpb_column container col-sm-6 col-lg-3 col-md-3 col-xs-12 " style="padding-bottom: 20px;">
                     <div class="column-inner ">
                         <div class="wpb_wrapper">
                             <!--fetures-->
