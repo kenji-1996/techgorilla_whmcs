@@ -1,6 +1,5 @@
+{include file="$template/includes/pageheader.tpl" title=$LANG.twofactorauth}
 <div class="logincontainer">
-
-    {include file="$template/includes/pageheader.tpl" title=$LANG.twofactorauth}
 
     {if $newbackupcode}
         {include file="$template/includes/alert.tpl" type="success" msg=$LANG.twofabackupcodereset textcenter=true}

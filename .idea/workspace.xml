@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8c7acddb-a358-4499-9f67-dfbe935bd9bf" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login.tpl" afterPath="$PROJECT_DIR$/login.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logintwofa.tpl" afterPath="$PROJECT_DIR$/logintwofa.tpl" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,16 +54,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/custom.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
@@ -77,8 +67,8 @@
       <file leaf-file-name="header.tpl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/header.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="263" column="28" lean-forward="true" selection-start-line="263" selection-start-column="28" selection-end-line="263" selection-end-column="52" />
+            <state relative-caret-position="76">
+              <caret line="263" column="28" lean-forward="false" selection-start-line="263" selection-start-column="28" selection-end-line="263" selection-end-column="28" />
               <folding>
                 <element signature="e#1655#2572#0#HTML" expanded="false" />
                 <element signature="e#2628#6439#0#HTML" expanded="false" />
@@ -91,11 +81,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.tpl" pinned="false" current-in-tab="true">
+      <file leaf-file-name="logintwofa.tpl" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/logintwofa.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="76" lean-forward="false" selection-start-line="0" selection-start-column="76" selection-end-line="0" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.tpl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/login.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="68" lean-forward="false" selection-start-line="1" selection-start-column="68" selection-end-line="1" selection-end-column="68" />
+            <state relative-caret-position="0">
+              <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="upgrade.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/store/weebly/upgrade.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="99" lean-forward="true" selection-start-line="4" selection-start-column="99" selection-end-line="4" selection-end-column="99" />
               <folding />
             </state>
           </provider>
@@ -109,16 +119,6 @@
               <folding>
                 <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navbar.tpl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/includes/navbar.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="36" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -157,6 +157,8 @@
       <find>.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12</find>
       <find>float: left</find>
       <find>section#main-body</find>
+      <find>login.tpl</find>
+      <find>{include file=&quot;$template/includes/pageheader.tpl&quot; title=$LANG.login desc=&quot;{$LANG.restrictedpage}&quot;}</find>
       <find>/includes/pageheader.tpl</find>
     </findStrings>
   </component>
@@ -185,6 +187,7 @@
         <option value="$PROJECT_DIR$/header.tpl" />
         <option value="$PROJECT_DIR$/includes/pageheader.tpl" />
         <option value="$PROJECT_DIR$/login.tpl" />
+        <option value="$PROJECT_DIR$/logintwofa.tpl" />
       </list>
     </option>
   </component>
@@ -331,12 +334,12 @@
       <updated>1526352478703</updated>
       <workItem from="1526352479784" duration="16235000" />
       <workItem from="1526373408029" duration="534000" />
-      <workItem from="1526517570517" duration="1785000" />
+      <workItem from="1526517570517" duration="1918000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22931000" />
+    <option name="totallyTimeSpent" value="23064000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -378,21 +381,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/XAMPP/htdocs/wordpress/wp-content/themes/tg_dark/assets/themes/mivocloud/assets/css/main-e9e22fa35743aaed50bb7ef0286b0ced7b80817f76b5905d22eb64df2ac87ec0.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="28481" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="29922" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="573">
@@ -516,6 +504,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="573">
           <caret line="1741" column="0" lean-forward="true" selection-start-line="1741" selection-start-column="0" selection-end-line="1741" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -704,6 +695,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-935">
           <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -765,10 +759,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/store/weebly/upgrade.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="99" lean-forward="true" selection-start-line="4" selection-start-column="99" selection-end-line="4" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/header.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="263" column="28" lean-forward="true" selection-start-line="263" selection-start-column="28" selection-end-line="263" selection-end-column="52" />
+        <state relative-caret-position="76">
+          <caret line="263" column="28" lean-forward="false" selection-start-line="263" selection-start-column="28" selection-end-line="263" selection-end-column="28" />
           <folding>
             <element signature="e#1655#2572#0#HTML" expanded="false" />
             <element signature="e#2628#6439#0#HTML" expanded="false" />
@@ -780,10 +790,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login.tpl">
+    <entry file="file://$PROJECT_DIR$/logintwofa.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="68" lean-forward="false" selection-start-line="1" selection-start-column="68" selection-end-line="1" selection-end-column="68" />
+        <state relative-caret-position="0">
+          <caret line="0" column="76" lean-forward="false" selection-start-line="0" selection-start-column="76" selection-end-line="0" selection-end-column="76" />
           <folding />
         </state>
       </provider>
