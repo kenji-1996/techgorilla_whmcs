@@ -210,30 +210,24 @@
     <div class="home-shortcuts">
         <div class="container">
             <div class="row">
-                <div class="col-lg-3 col-md-6 text-center">
+                <div class="col-lg-4 col-md-6 text-center">
                     <div class="service-box mt-5 mx-auto">
                         <a href="cart.php" >
                             <i class="fa fa-hdd-o text-primary mb-3 sr-icons" data-sr-id="2" style=" visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></i>
-                            <span class="text-primary homepage-sublinks">Reliable</span>
+                            <span class="text-primary homepage-sublinks">Order hosting</span>
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 text-center">
+                <div class="col-lg-4 col-md-6 text-center">
                     <div class="service-box mt-5 mx-auto">
                         <i class="fa fa-hdd-o text-primary mb-3 sr-icons" data-sr-id="2" style=" visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></i>
-                        <span class="text-primary homepage-sublinks">Reliable</span>
+                        <span class="text-primary homepage-sublinks">Make payment</span>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 text-center">
+                <div class="col-lg-4 col-md-6 text-center">
                     <div class="service-box mt-5 mx-auto">
                         <i class="fa fa-hdd-o text-primary mb-3 sr-icons" data-sr-id="2" style=" visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></i>
-                        <span class="text-primary homepage-sublinks">Reliable</span>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 text-center">
-                    <div class="service-box mt-5 mx-auto">
-                        <i class="fa fa-hdd-o text-primary mb-3 sr-icons" data-sr-id="2" style=" visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></i>
-                        <span class="text-primary homepage-sublinks">Reliable</span>
+                        <span class="text-primary homepage-sublinks">Get Support</span>
                     </div>
                 </div>
             </div>
