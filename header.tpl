@@ -182,7 +182,7 @@
             <div data-vc-full-width="true" data-vc-full-width-init="true" class="row wpb_row row-fluid custom_1504880319686 row-has-fill">
                 <div class="ovrl"></div>
                 <div class="wpb_column container col-sm-6 col-lg-3 col-md-3 col-xs-12" style="padding-bottom: 20px;">
-                    <a href="cart.php">
+                    <a href="/cart.php">
                         <div class="column-inner">
                             <div class="wpb_wrapper">
                                 <!--fetures-->
@@ -196,7 +196,7 @@
                     </a>
                 </div>
                 <div class="wpb_column container col-sm-6 col-lg-3 col-md-3 col-xs-12" style="padding-bottom: 20px;">
-                    <a href="cart.php">
+                    <a href="/supporttickets.php">
                         <div class="column-inner ">
                             <div class="wpb_wrapper">
                                 <!--fetures-->
