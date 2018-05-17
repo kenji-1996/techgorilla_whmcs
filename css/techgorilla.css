@@ -34,8 +34,7 @@ section#main-body {
     font-weight: 300;
 }
 .home-shortcuts li:first-child {
-
-    border-right: 2px solid rgba(0,0,0,0.2);
+    border-left: 2px solid rgba(0,0,0,0.2);
 }
 .home-shortcuts li a {
     display: block;
@@ -69,7 +68,6 @@ section#main-body {
         display: block;
         float: none;
         width: 100%;
-        border-right: 0;
         border-right: 2px solid rgba(0,0,0,0.2);
     }
     .home-shortcuts li:first-child {
