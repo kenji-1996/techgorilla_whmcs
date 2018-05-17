@@ -15,14 +15,15 @@
         {if $announcement@index < 2}
             <div class="announcement-single">
                 <div class="flex">
-                    <div class="left">Left with Flex</div>
-                    <div class="right">Right with Flex</div>
+                    <div class="left">
+                        <h3>
+                            <a href="{routePath('announcement-view', $announcement.id, $announcement.urlfriendlytitle)}">{$announcement.title}</a>
+                        </h3>
+                    </div>
+                    <div class="right">
+                        <p class="label label-default">{$carbon->translatePassedToFormat($announcement.rawDate, 'M jS')}</p>
+                    </div>
                 </div>
-                <h3>
-                    <a href="{routePath('announcement-view', $announcement.id, $announcement.urlfriendlytitle)}">{$announcement.title}</a>
-                </h3>
-                <p class="label label-default">{$carbon->translatePassedToFormat($announcement.rawDate, 'M jS')}</p>
-
                 <blockquote>
                     <p>
                         {if $announcement.text|strip_tags|strlen < 350}
