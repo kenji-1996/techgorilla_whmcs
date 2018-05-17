@@ -23,10 +23,9 @@
                                     <a href="/cart.php?gid=1">Web Hosting</a>
                                     <a href="mailto:sales@techgorilla.io">sales@techgorilla.io</a>
                                     <a href="tel:+61-416-723-376">+61 416 723 376</a>
-                                    <a href="/dedicated-servers">Dedicated</a>
-                                    <a href="/server-management">Server Management</a>
-                                    <a href="/contact-us">Contact Us</a>
-
+                                    <a href="/affiliates.phps">Affiliates</a>
+                                    <a href="/clientarea.php">Login</a>
+                                    <a href="/register.php">Register</a>
                                 </div>
                                 <!-- END Bottom Menu -->
 
