@@ -260,12 +260,12 @@
 
 {include file="$template/includes/verifyemail.tpl"}
 
+{if $primarySidebar->hasChildren() && !$skipMainBodyContainer}
+    <div class="col-md-9 pull-md-right">
+        {include file="$template/includes/pageheader.tpl" title=$displayTitle desc=$tagline showbreadcrumb=true}
+    </div>
+{/if}
 <section id="main-body">
-    {if $primarySidebar->hasChildren() && !$skipMainBodyContainer}
-        <div class="col-md-9 pull-md-right">
-            {include file="$template/includes/pageheader.tpl" title=$displayTitle desc=$tagline showbreadcrumb=true}
-        </div>
-    {/if}
     <div class="container{if $skipMainBodyContainer}-fluid without-padding{/if}">
         <div class="row">
 
