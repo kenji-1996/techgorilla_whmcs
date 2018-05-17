@@ -1,7 +1,5 @@
+{include file="$template/includes/pageheader.tpl" title=$LANG.login desc="{$LANG.restrictedpage}"}
 <div class="logincontainer{if $linkableProviders} with-social{/if}">
-
-    {include file="$template/includes/pageheader.tpl" title=$LANG.login desc="{$LANG.restrictedpage}"}
-
     {if $incorrect}
         {include file="$template/includes/alert.tpl" type="error" msg=$LANG.loginincorrect textcenter=true}
     {elseif $verificationId && empty($transientDataName)}
