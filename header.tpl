@@ -210,7 +210,7 @@
                     </a>
                 </div>
                 <div class="wpb_column container col-sm-6 col-lg-3 col-md-3 col-xs-12" style="padding-bottom: 20px;">
-                    <a href="cart.php">
+                    <a href="serverstatus.php">
                         <div class="column-inner ">
                             <div class="wpb_wrapper">
                                 <!--fetures-->
