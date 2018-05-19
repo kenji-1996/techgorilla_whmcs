@@ -20,6 +20,19 @@
   height: 26px;
   top: -5px;
 }
+div.header-lined h1 {
+  color:#292929;
+}
+#order-boxes .fields-container {
+  position: relative;
+  border: 1px solid rgba(0,0,0,0.075);
+  border-radius: 3px;
+  text-align: center;
+  box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+}
+#order-boxes .fields-container .field-row:nth-child(odd) {
+  background-color:white;
+}
 .sidebar {
   margin-bottom: 0;
 }
