@@ -3400,7 +3400,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 }
 a.label:hover,
 a.label:focus {
-    color: #ffffff;
+    /*color: #ffffff;*/
     text-decoration: none;
     cursor: pointer;
 }

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c7acddb-a358-4499-9f67-dfbe935bd9bf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/all.min.css" afterPath="$PROJECT_DIR$/css/all.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/techgorilla.css" afterPath="$PROJECT_DIR$/css/techgorilla.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -73,21 +73,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="all.min.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="all.min.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/all.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="4" column="80372" lean-forward="false" selection-start-line="4" selection-start-column="80372" selection-end-line="4" selection-end-column="80372" />
+            <state relative-caret-position="170">
+              <caret line="4" column="81705" lean-forward="false" selection-start-line="4" selection-start-column="81705" selection-end-line="4" selection-end-column="81705" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="techgorilla.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="techgorilla.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/techgorilla.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="3400" column="14" lean-forward="true" selection-start-line="3400" selection-start-column="14" selection-end-line="3400" selection-end-column="14" />
+            <state relative-caret-position="372">
+              <caret line="3394" column="23" lean-forward="true" selection-start-line="3394" selection-start-column="23" selection-end-line="3394" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -125,7 +125,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>cart</find>
       <find>products</find>
       <find>order</find>
       <find>pageheader.tpl</find>
@@ -154,6 +153,7 @@
       <find>position:</find>
       <find>#primary-menu ul li a</find>
       <find>.label{display:inline;</find>
+      <find>.label</find>
       <find>.label</find>
     </findStrings>
     <replaceStrings>
@@ -196,8 +196,8 @@
         <option value="$PROJECT_DIR$/includes/head.tpl" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/header.tpl" />
-        <option value="$PROJECT_DIR$/css/techgorilla.css" />
         <option value="$PROJECT_DIR$/css/all.min.css" />
+        <option value="$PROJECT_DIR$/css/techgorilla.css" />
       </list>
     </option>
   </component>
@@ -305,12 +305,12 @@
       <workItem from="1526682120570" duration="1176000" />
       <workItem from="1526864883903" duration="94000" />
       <workItem from="1526871249010" duration="7333000" />
-      <workItem from="1526946299368" duration="490000" />
+      <workItem from="1526946299368" duration="585000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54332000" />
+    <option name="totallyTimeSpent" value="54427000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
@@ -706,18 +706,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/techgorilla.css">
+    <entry file="file://$PROJECT_DIR$/css/all.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="3400" column="14" lean-forward="true" selection-start-line="3400" selection-start-column="14" selection-end-line="3400" selection-end-column="14" />
+        <state relative-caret-position="170">
+          <caret line="4" column="81705" lean-forward="false" selection-start-line="4" selection-start-column="81705" selection-end-line="4" selection-end-column="81705" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/all.min.css">
+    <entry file="file://$PROJECT_DIR$/css/techgorilla.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="4" column="80372" lean-forward="false" selection-start-line="4" selection-start-column="80372" selection-end-line="4" selection-end-column="80372" />
+        <state relative-caret-position="372">
+          <caret line="3394" column="23" lean-forward="true" selection-start-line="3394" selection-start-column="23" selection-end-line="3394" selection-end-column="23" />
           <folding />
         </state>
       </provider>
